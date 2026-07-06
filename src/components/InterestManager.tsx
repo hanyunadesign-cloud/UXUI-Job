@@ -3,6 +3,7 @@
 import { useEffect, useState } from "react";
 import { Company } from "@/lib/types";
 import { InterestState, loadInterests, saveInterests } from "@/lib/storage";
+import { trackEvent } from "@/lib/mixpanel";
 
 export default function InterestManager({ companies }: { companies: Company[] }) {
   const [state, setState] = useState<InterestState>({
@@ -35,6 +36,7 @@ export default function InterestManager({ companies }: { companies: Company[] })
   const addKeyword = () => {
     const value = keywordInput.trim();
     if (!value || state.keywords.includes(value)) return;
+    trackEvent("Button Click", { button: "키워드 추가", keyword: value });
     setState((prev) => ({ ...prev, keywords: [...prev.keywords, value] }));
     setKeywordInput("");
   };

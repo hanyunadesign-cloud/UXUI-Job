@@ -1,6 +1,9 @@
+"use client";
+
 import Link from "next/link";
 import { Company, JobPosting } from "@/lib/types";
 import { deadlineLabel, formatDate } from "@/lib/date";
+import { trackEvent } from "@/lib/mixpanel";
 
 export default function JobCard({
   job,
@@ -14,6 +17,13 @@ export default function JobCard({
   return (
     <Link
       href={`/jobs/${job.id}`}
+      onClick={() =>
+        trackEvent("Button Click", {
+          button: "공고 카드",
+          jobId: job.id,
+          jobTitle: job.title,
+        })
+      }
       className="card group flex flex-col gap-4 p-5 transition-shadow hover:shadow-lg"
     >
       <div className="flex items-start justify-between gap-3">

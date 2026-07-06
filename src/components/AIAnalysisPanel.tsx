@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import { AIAnalysis } from "@/lib/types";
+import { trackEvent } from "@/lib/mixpanel";
 
 export default function AIAnalysisPanel({ analysis }: { analysis: AIAnalysis }) {
   const [status, setStatus] = useState<"idle" | "loading" | "done">("idle");
@@ -20,6 +21,7 @@ export default function AIAnalysisPanel({ analysis }: { analysis: AIAnalysis }) 
         {status !== "done" && (
           <button
             onClick={() => {
+              trackEvent("Button Click", { button: "AI 분석" });
               setStatus("loading");
               setTimeout(() => setStatus("done"), 700);
             }}

@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from "react";
 import { loadApplyPlans, saveApplyPlans } from "@/lib/storage";
+import { trackEvent } from "@/lib/mixpanel";
 
 export default function ApplyPlanner({ jobId }: { jobId: string }) {
   const [date, setDate] = useState("");
@@ -17,6 +18,7 @@ export default function ApplyPlanner({ jobId }: { jobId: string }) {
 
   const handleSave = () => {
     if (!date) return;
+    trackEvent("Button Click", { button: "지원 예정일 저장", jobId });
     const plans = loadApplyPlans();
     plans[jobId] = date;
     saveApplyPlans(plans);

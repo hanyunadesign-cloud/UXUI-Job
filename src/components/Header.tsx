@@ -2,6 +2,7 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
+import { trackEvent } from "@/lib/mixpanel";
 
 const NAV_ITEMS = [
   { href: "/", label: "홈" },
@@ -48,7 +49,11 @@ export default function Header() {
           })}
         </nav>
 
-        <Link href="/interests" className="btn btn-primary hidden sm:inline-flex">
+        <Link
+          href="/interests"
+          onClick={() => trackEvent("Button Click", { button: "알림 설정하기" })}
+          className="btn btn-primary hidden sm:inline-flex"
+        >
           알림 설정하기
         </Link>
       </div>
