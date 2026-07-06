@@ -1,4 +1,4 @@
-import { companies, jobPostings, notificationLog } from "@/lib/mock-data";
+import { companies, allJobPostings, notificationLog } from "@/lib/mock-data";
 import MyPageContent from "@/components/MyPageContent";
 
 export default function MyPage() {
@@ -16,7 +16,7 @@ export default function MyPage() {
       </section>
 
       <MyPageContent
-        jobs={jobPostings}
+        jobs={allJobPostings}
         companies={companies}
         notificationLog={notificationLog}
       />

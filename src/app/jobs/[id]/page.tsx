@@ -1,6 +1,6 @@
 import { notFound } from "next/navigation";
 import Link from "next/link";
-import { getCompanyById, getJobById, jobPostings } from "@/lib/mock-data";
+import { getCompanyById, getJobById, allJobPostings } from "@/lib/mock-data";
 import { deadlineLabel, formatDate } from "@/lib/date";
 import CompanyProfileCard from "@/components/CompanyProfileCard";
 import AIAnalysisPanel from "@/components/AIAnalysisPanel";
@@ -8,7 +8,7 @@ import ApplyPlanner from "@/components/ApplyPlanner";
 import OriginalUrlLink from "@/components/OriginalUrlLink";
 
 export function generateStaticParams() {
-  return jobPostings.map((job) => ({ id: job.id }));
+  return allJobPostings.map((job) => ({ id: job.id }));
 }
 
 export default function JobDetailPage({ params }: { params: { id: string } }) {

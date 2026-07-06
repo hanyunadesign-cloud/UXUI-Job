@@ -1,4 +1,4 @@
-import { companies, jobPostings } from "@/lib/mock-data";
+import { companies, allJobPostings } from "@/lib/mock-data";
 import TrendComparator from "@/components/TrendComparator";
 
 export default function TrendsPage() {
@@ -15,7 +15,7 @@ export default function TrendsPage() {
         </p>
       </section>
 
-      <TrendComparator jobs={jobPostings} companies={companies} />
+      <TrendComparator jobs={allJobPostings} companies={companies} />
     </div>
   );
 }

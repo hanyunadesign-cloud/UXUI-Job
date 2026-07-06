@@ -1,4 +1,5 @@
 import { Company, JobPosting } from "./types";
+import crawledJobsData from "./crawled-jobs.json";
 
 export const companies: Company[] = [
   {
@@ -82,6 +83,52 @@ export const companies: Company[] = [
     description:
       "디지털 헬스케어 서비스. 접근성과 신뢰도를 중요하게 여기는 디자인 조직 문화를 갖고 있습니다.",
     cultureTags: ["접근성", "데이터 기반", "디자인 QA 전담"],
+  },
+  {
+    id: "kakao",
+    name: "카카오",
+    initial: "카",
+    colorClass: "bg-yellow-500",
+    industry: "IT 플랫폼",
+    location: "경기 성남시 판교",
+    fundingStage: "상장",
+    fundingAmount: "비공개",
+    orgStage: "대기업",
+    employeeCount: "4,000명 이상",
+    designBlogUrl: "https://brunch.co.kr/@kakao-it",
+    description:
+      "카카오톡을 비롯한 국내 대표 플랫폼 서비스를 운영하는 IT 기업. 자동으로 수집된 공식 채용페이지 공고입니다.",
+    cultureTags: ["대규모 서비스", "디자인 시스템", "완전선택근무제"],
+  },
+  {
+    id: "naver",
+    name: "네이버",
+    initial: "네",
+    colorClass: "bg-green-600",
+    industry: "IT 플랫폼",
+    location: "경기 성남시 분당구",
+    fundingStage: "상장",
+    fundingAmount: "비공개",
+    orgStage: "대기업",
+    employeeCount: "4,000명 이상",
+    description:
+      "검색, 커머스, 콘텐츠 등 다양한 서비스를 운영하는 국내 최대 인터넷 기업. 자동으로 수집된 공식 채용페이지 공고입니다.",
+    cultureTags: ["대규모 서비스", "다양한 서비스 포트폴리오"],
+  },
+  {
+    id: "toss",
+    name: "토스",
+    initial: "토",
+    colorClass: "bg-blue-500",
+    industry: "핀테크",
+    location: "서울 강남구",
+    fundingStage: "상장",
+    fundingAmount: "비공개",
+    orgStage: "스케일업",
+    employeeCount: "2,000명 이상",
+    description:
+      "간편송금으로 시작해 금융 전반으로 확장한 핀테크 기업. 자동으로 수집된 공식 채용페이지 공고입니다.",
+    cultureTags: ["프로덕트 오너십", "빠른 실행력"],
   },
 ];
 
@@ -440,14 +487,18 @@ export const notificationLog: NotificationLogItem[] = [
   },
 ];
 
+export const crawledJobPostings: JobPosting[] = crawledJobsData as JobPosting[];
+
+export const allJobPostings: JobPosting[] = [...jobPostings, ...crawledJobPostings];
+
 export function getCompanyById(id: string): Company | undefined {
   return companies.find((c) => c.id === id);
 }
 
 export function getJobById(id: string): JobPosting | undefined {
-  return jobPostings.find((j) => j.id === id);
+  return allJobPostings.find((j) => j.id === id);
 }
 
 export function getJobsByCompany(companyId: string): JobPosting[] {
-  return jobPostings.filter((j) => j.companyId === companyId);
+  return allJobPostings.filter((j) => j.companyId === companyId);
 }

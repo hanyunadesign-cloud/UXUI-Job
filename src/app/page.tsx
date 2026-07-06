@@ -1,4 +1,4 @@
-import { companies, jobPostings } from "@/lib/mock-data";
+import { companies, allJobPostings } from "@/lib/mock-data";
 import JobFeed from "@/components/JobFeed";
 
 export default function HomePage() {
@@ -16,7 +16,7 @@ export default function HomePage() {
         </p>
       </section>
 
-      <JobFeed jobs={jobPostings} companies={companies} />
+      <JobFeed jobs={allJobPostings} companies={companies} />
     </div>
   );
 }

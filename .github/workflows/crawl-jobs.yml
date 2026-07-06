@@ -1,0 +1,37 @@
+name: Crawl UX/UI job postings
+
+on:
+  schedule:
+    - cron: "0 21 * * *" # 06:00 KST daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run crawler
+        run: node scripts/crawl-jobs.mjs
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- src/lib/crawled-jobs.json; then
+            echo "No changes in crawled jobs."
+            exit 0
+          fi
+          git add src/lib/crawled-jobs.json
+          git commit -m "Update crawled job postings"
+          git push

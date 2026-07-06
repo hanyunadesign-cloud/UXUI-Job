@@ -1,4 +1,4 @@
-import { jobPostings } from "@/lib/mock-data";
+import { allJobPostings } from "@/lib/mock-data";
 import CalendarView from "@/components/CalendarView";
 
 export default function CalendarPage() {
@@ -15,7 +15,7 @@ export default function CalendarPage() {
         </p>
       </section>
 
-      <CalendarView jobs={jobPostings} />
+      <CalendarView jobs={allJobPostings} />
     </div>
   );
 }
