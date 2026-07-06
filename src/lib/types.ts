@@ -66,5 +66,6 @@ export interface JobPosting {
   tags: string[];
   jdSummary: string;
   jdFull: string[];
+  originalUrl: string;
   aiAnalysis: AIAnalysis;
 }

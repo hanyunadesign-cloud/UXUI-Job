@@ -115,6 +115,7 @@ export const jobPostings: JobPosting[] = [
       "- 디자인 시스템 구축 및 운영 경험",
       "- 접근성(A11y) 가이드라인 이해",
     ],
+    originalUrl: "https://www.linkedin.com/jobs/view/job-01",
     aiAnalysis: {
       coreSkills: [
         "사용자 플로우 설계",
@@ -160,6 +161,7 @@ export const jobPostings: JobPosting[] = [
       "- 커머스/리테일 서비스 경험",
       "- 애니메이션 및 마이크로 인터랙션 설계 경험",
     ],
+    originalUrl: "https://www.wanted.co.kr/wd/job-02",
     aiAnalysis: {
       coreSkills: ["UI 프로토타이핑", "A/B 테스트 설계", "비주얼 가이드 제작"],
       requiredTools: ["Figma", "Sketch"],
@@ -199,6 +201,7 @@ export const jobPostings: JobPosting[] = [
       "- 팀 리딩 또는 멘토링 경험",
       "- 접근성 표준 준수 경험",
     ],
+    originalUrl: "https://www.jobkorea.co.kr/Recruit/GI_Read/job-03",
     aiAnalysis: {
       coreSkills: ["UX 전략 수립", "멘토링", "이해관계자 협의"],
       requiredTools: ["Sketch", "Figma", "Zeplin"],
@@ -237,6 +240,7 @@ export const jobPostings: JobPosting[] = [
       "- B2B SaaS 서비스 디자인 경험",
       "- 프론트엔드 코드 이해(HTML/CSS)",
     ],
+    originalUrl: "https://www.rocketpunch.com/jobs/job-04",
     aiAnalysis: {
       coreSkills: ["0-to-1 프로덕트 설계", "브랜딩", "빠른 의사결정"],
       requiredTools: ["Figma"],
@@ -276,6 +280,7 @@ export const jobPostings: JobPosting[] = [
       "- 헬스케어/의료 서비스 경험",
       "- 데이터 시각화 디자인 경험",
     ],
+    originalUrl: "https://atelierblue.example.com/careers/job-05",
     aiAnalysis: {
       coreSkills: ["정보 구조 설계", "접근성 검토", "디자인 QA"],
       requiredTools: ["Figma"],
@@ -313,6 +318,7 @@ export const jobPostings: JobPosting[] = [
       "- 인턴 또는 프로젝트 경험",
       "- 협업 툴(Notion, Jira) 사용 경험",
     ],
+    originalUrl: "https://www.wanted.co.kr/wd/job-06",
     aiAnalysis: {
       coreSkills: ["UI 화면 설계", "컴포넌트 제작", "문서화"],
       requiredTools: ["Figma"],
@@ -350,6 +356,7 @@ export const jobPostings: JobPosting[] = [
       "- 그로스 해킹 관련 경험",
       "- SQL 기초 지식",
     ],
+    originalUrl: "https://www.linkedin.com/jobs/view/job-07",
     aiAnalysis: {
       coreSkills: ["실험 설계", "데이터 기반 의사결정", "UI 변형 제작"],
       requiredTools: ["Figma"],
@@ -385,6 +392,7 @@ export const jobPostings: JobPosting[] = [
       "[우대 사항]",
       "- 헬스케어 도메인 리서치 경험",
     ],
+    originalUrl: "https://www.jobkorea.co.kr/Recruit/GI_Read/job-08",
     aiAnalysis: {
       coreSkills: ["사용자 인터뷰", "설문 설계", "리서치-UI 연결"],
       requiredTools: ["Figma"],

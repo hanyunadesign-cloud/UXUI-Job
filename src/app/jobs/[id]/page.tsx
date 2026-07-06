@@ -5,6 +5,7 @@ import { deadlineLabel, formatDate } from "@/lib/date";
 import CompanyProfileCard from "@/components/CompanyProfileCard";
 import AIAnalysisPanel from "@/components/AIAnalysisPanel";
 import ApplyPlanner from "@/components/ApplyPlanner";
+import OriginalUrlLink from "@/components/OriginalUrlLink";
 
 export function generateStaticParams() {
   return jobPostings.map((job) => ({ id: job.id }));
@@ -27,10 +28,13 @@ export default function JobDetailPage({ params }: { params: { id: string } }) {
         </Link>
 
         <div className="card p-6">
-          <div className="flex flex-wrap items-center gap-2">
-            <span className="badge badge-neutral">{job.platform}</span>
-            <span className="badge badge-neutral">{job.career}</span>
-            <span className="badge badge-neutral">{job.employmentType}</span>
+          <div className="flex flex-wrap items-center justify-between gap-3">
+            <div className="flex flex-wrap items-center gap-2">
+              <span className="badge badge-neutral">{job.platform}</span>
+              <span className="badge badge-neutral">{job.career}</span>
+              <span className="badge badge-neutral">{job.employmentType}</span>
+            </div>
+            <OriginalUrlLink url={job.originalUrl} platform={job.platform} jobId={job.id} />
           </div>
 
           <h1 className="mt-3 text-2xl font-semibold tracking-tight text-neutral-900">
