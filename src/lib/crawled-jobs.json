@@ -68,7 +68,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-07-08",
+    "postedAt": "2026-07-09",
     "deadline": null,
     "tags": [
       "토스"
@@ -95,40 +95,6 @@
     }
   },
   {
-    "id": "toss-4476308003",
-    "title": "Product Designer [Tools]",
-    "companyId": "toss",
-    "platform": "기업 홈페이지",
-    "location": "서울",
-    "career": "경력무관",
-    "employmentType": "정규직",
-    "postedAt": "2026-07-08",
-    "deadline": null,
-    "tags": [
-      "토스뱅크"
-    ],
-    "jdSummary": "합류하면 함께할 업무예요\n 모두가 이용하고 있지만 유독 복잡하고 어렵게 느껴지는 은행 서비스를 사용자 중심의 서비스로 혁신하는 일에 집중해요.“ 왜 그래야 하지?”라는 물음을 끊임없이 던지며 기존 은행들과는 다른, ",
-    "jdFull": [
-      "자세한 업무 내용과 자격요건은 원본 공고에서 확인해주세요."
-    ],
-    "originalUrl": "https://toss.im/career/job-detail?gh_jid=4476308003",
-    "aiAnalysis": {
-      "coreSkills": [
-        "원본 공고에서 상세 내용을 확인해주세요"
-      ],
-      "requiredTools": [
-        "Figma"
-      ],
-      "preferred": [],
-      "keywords": [
-        {
-          "keyword": "디자인",
-          "count": 1
-        }
-      ]
-    }
-  },
-  {
     "id": "toss-5801150003",
     "title": "UX Researcher",
     "companyId": "toss",
@@ -136,7 +102,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-07-08",
+    "postedAt": "2026-07-09",
     "deadline": null,
     "tags": [
       "토스플레이스",
@@ -164,6 +130,40 @@
     }
   },
   {
+    "id": "toss-5784849003",
+    "title": "Design Assistant",
+    "companyId": "toss",
+    "platform": "기업 홈페이지",
+    "location": "서울",
+    "career": "경력무관",
+    "employmentType": "계약직",
+    "postedAt": "2026-07-09",
+    "deadline": null,
+    "tags": [
+      "토스페이먼츠"
+    ],
+    "jdSummary": "토스페이먼츠를 소개해 드려요\n 토스페이먼츠는 사업의 어려움과 비효율을 이해하고, 기술부터 운영까지 사업에 필요한 모든 솔루션을 제공하는 것을 목표로 합니다. 소비자들에게 쉽고 편한 서비스 경험을 제공하고, 가맹점에는",
+    "jdFull": [
+      "자세한 업무 내용과 자격요건은 원본 공고에서 확인해주세요."
+    ],
+    "originalUrl": "https://toss.im/career/job-detail?gh_jid=5784849003",
+    "aiAnalysis": {
+      "coreSkills": [
+        "원본 공고에서 상세 내용을 확인해주세요"
+      ],
+      "requiredTools": [
+        "Figma"
+      ],
+      "preferred": [],
+      "keywords": [
+        {
+          "keyword": "디자인",
+          "count": 1
+        }
+      ]
+    }
+  },
+  {
     "id": "toss-4208133003",
     "title": "Global UX Researcher",
     "companyId": "toss",
@@ -171,7 +171,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-07-08",
+    "postedAt": "2026-07-09",
     "deadline": null,
     "tags": [
       "토스",
@@ -206,7 +206,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-07-08",
+    "postedAt": "2026-07-09",
     "deadline": null,
     "tags": [
       "토스뱅크"
@@ -240,7 +240,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-07-08",
+    "postedAt": "2026-07-09",
     "deadline": null,
     "tags": [
       "토스"
@@ -274,7 +274,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-07-08",
+    "postedAt": "2026-07-09",
     "deadline": null,
     "tags": [
       "토스증권"
@@ -308,7 +308,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-07-08",
+    "postedAt": "2026-07-09",
     "deadline": null,
     "tags": [
       "토스증권",
@@ -343,7 +343,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-07-08",
+    "postedAt": "2026-07-09",
     "deadline": null,
     "tags": [
       "토스증권",
@@ -398,7 +398,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-07-08",
+    "postedAt": "2026-07-09",
     "deadline": null,
     "tags": [
       "토스커뮤니티",
@@ -439,7 +439,7 @@
     "location": "경기 성남시 분당구",
     "career": "신입",
     "employmentType": "인턴",
-    "postedAt": "2026-07-08",
+    "postedAt": "2026-07-09",
     "deadline": "2026-07-12",
     "tags": [
       "네이버",
@@ -474,7 +474,7 @@
     "location": "경기 성남시 분당구",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-07-08",
+    "postedAt": "2026-07-09",
     "deadline": "2026-07-12",
     "tags": [
       "네이버",
