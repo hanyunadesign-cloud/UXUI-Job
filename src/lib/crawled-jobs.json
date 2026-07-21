@@ -150,7 +150,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-07-20",
+    "postedAt": "2026-07-21",
     "deadline": null,
     "tags": [
       "토스페이먼츠"
@@ -184,7 +184,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-07-20",
+    "postedAt": "2026-07-21",
     "deadline": null,
     "tags": [
       "토스"
@@ -218,7 +218,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-07-20",
+    "postedAt": "2026-07-21",
     "deadline": null,
     "tags": [
       "토스플레이스",
@@ -253,7 +253,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-07-20",
+    "postedAt": "2026-07-21",
     "deadline": null,
     "tags": [
       "토스",
@@ -288,7 +288,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-07-20",
+    "postedAt": "2026-07-21",
     "deadline": null,
     "tags": [
       "토스뱅크"
@@ -322,7 +322,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-07-20",
+    "postedAt": "2026-07-21",
     "deadline": null,
     "tags": [
       "토스증권"
@@ -356,7 +356,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-07-20",
+    "postedAt": "2026-07-21",
     "deadline": null,
     "tags": [
       "토스증권",
@@ -391,7 +391,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-07-20",
+    "postedAt": "2026-07-21",
     "deadline": null,
     "tags": [
       "토스증권",
@@ -446,11 +446,11 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-07-20",
+    "postedAt": "2026-07-21",
     "deadline": null,
     "tags": [
       "토스커뮤니티",
-      "브랜딩",
+      "프로토타이핑",
       "인터랙션"
     ],
     "jdSummary": "Visual Designer를 소개해요\n  토스는 그동안 Graphic/Brand/Interaction/Platform Designer로 디자인 직군을 나누어 운영해 왔어요. 각 직군마다 잘하는 기술이 달랐기 때문이",
@@ -460,8 +460,9 @@
     "originalUrl": "https://toss.im/career/job-detail?gh_jid=7792204003",
     "aiAnalysis": {
       "coreSkills": [
-        "브랜딩",
-        "인터랙션"
+        "프로토타이핑",
+        "인터랙션",
+        "브랜딩"
       ],
       "requiredTools": [
         "Figma"
@@ -469,11 +470,50 @@
       "preferred": [],
       "keywords": [
         {
-          "keyword": "브랜딩",
+          "keyword": "프로토타이핑",
           "count": 2
         },
         {
           "keyword": "인터랙션",
+          "count": 2
+        },
+        {
+          "keyword": "브랜딩",
+          "count": 2
+        }
+      ]
+    }
+  },
+  {
+    "id": "naver-30005173",
+    "title": "[네이버웹툰] Brand Media 콘텐츠 PD (계약직)",
+    "companyId": "naver",
+    "platform": "기업 홈페이지",
+    "location": "경기 성남시 분당구",
+    "career": "경력무관",
+    "employmentType": "계약직",
+    "postedAt": "2026-07-21",
+    "deadline": "2026-08-02",
+    "tags": [
+      "네이버",
+      "Visual Comm. & Brand Design"
+    ],
+    "jdSummary": "Visual Comm. & Brand Design 직군 채용공고입니다.",
+    "jdFull": [
+      "자세한 업무 내용과 자격요건은 원본 공고에서 확인해주세요."
+    ],
+    "originalUrl": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005173&lang=ko",
+    "aiAnalysis": {
+      "coreSkills": [
+        "원본 공고에서 상세 내용을 확인해주세요"
+      ],
+      "requiredTools": [
+        "Figma"
+      ],
+      "preferred": [],
+      "keywords": [
+        {
+          "keyword": "디자인",
           "count": 1
         }
       ]
@@ -487,7 +527,7 @@
     "location": "경기 성남시 분당구",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-07-20",
+    "postedAt": "2026-07-21",
     "deadline": "2026-08-02",
     "tags": [
       "네이버",
