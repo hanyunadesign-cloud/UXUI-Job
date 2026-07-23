@@ -143,40 +143,6 @@
     }
   },
   {
-    "id": "toss-5784849003",
-    "title": "Design Assistant",
-    "companyId": "toss",
-    "platform": "기업 홈페이지",
-    "location": "서울",
-    "career": "경력무관",
-    "employmentType": "계약직",
-    "postedAt": "2026-07-22",
-    "deadline": null,
-    "tags": [
-      "토스페이먼츠"
-    ],
-    "jdSummary": "토스페이먼츠를 소개해 드려요\n 토스페이먼츠는 사업의 어려움과 비효율을 이해하고, 기술부터 운영까지 사업에 필요한 모든 솔루션을 제공하는 것을 목표로 합니다. 소비자들에게 쉽고 편한 서비스 경험을 제공하고, 가맹점에는",
-    "jdFull": [
-      "자세한 업무 내용과 자격요건은 원본 공고에서 확인해주세요."
-    ],
-    "originalUrl": "https://toss.im/career/job-detail?gh_jid=5784849003",
-    "aiAnalysis": {
-      "coreSkills": [
-        "원본 공고에서 상세 내용을 확인해주세요"
-      ],
-      "requiredTools": [
-        "Figma"
-      ],
-      "preferred": [],
-      "keywords": [
-        {
-          "keyword": "디자인",
-          "count": 1
-        }
-      ]
-    }
-  },
-  {
     "id": "toss-4326315003",
     "title": "Product Designer",
     "companyId": "toss",
@@ -184,7 +150,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-07-22",
+    "postedAt": "2026-07-23",
     "deadline": null,
     "tags": [
       "토스"
@@ -218,7 +184,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-07-22",
+    "postedAt": "2026-07-23",
     "deadline": null,
     "tags": [
       "토스플레이스",
@@ -253,7 +219,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-07-22",
+    "postedAt": "2026-07-23",
     "deadline": null,
     "tags": [
       "토스",
@@ -288,7 +254,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-07-22",
+    "postedAt": "2026-07-23",
     "deadline": null,
     "tags": [
       "토스뱅크"
@@ -315,40 +281,6 @@
     }
   },
   {
-    "id": "toss-5620531003",
-    "title": "User Interview Assistant",
-    "companyId": "toss",
-    "platform": "기업 홈페이지",
-    "location": "서울",
-    "career": "경력무관",
-    "employmentType": "계약직",
-    "postedAt": "2026-07-22",
-    "deadline": null,
-    "tags": [
-      "토스증권"
-    ],
-    "jdSummary": "토스증권을 소개해드려요.\n 토스증권은 '투자 하면 첫 번째로 떠오르는 서비스'를 만들고 있어요. 투자자의 입장에서 꼭 필요한 기능이 무엇일지 고민하고, 이용자들이 겪는 문제를 직접 발굴하며, '어려운 금융 투자'에 ",
-    "jdFull": [
-      "자세한 업무 내용과 자격요건은 원본 공고에서 확인해주세요."
-    ],
-    "originalUrl": "https://toss.im/career/job-detail?gh_jid=5620531003",
-    "aiAnalysis": {
-      "coreSkills": [
-        "원본 공고에서 상세 내용을 확인해주세요"
-      ],
-      "requiredTools": [
-        "Figma"
-      ],
-      "preferred": [],
-      "keywords": [
-        {
-          "keyword": "디자인",
-          "count": 1
-        }
-      ]
-    }
-  },
-  {
     "id": "toss-7673611003",
     "title": "UX Writer",
     "companyId": "toss",
@@ -356,7 +288,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-07-22",
+    "postedAt": "2026-07-23",
     "deadline": null,
     "tags": [
       "토스증권",
@@ -384,61 +316,6 @@
     }
   },
   {
-    "id": "toss-7779710003",
-    "title": "Visual Design Assistant",
-    "companyId": "toss",
-    "platform": "기업 홈페이지",
-    "location": "서울",
-    "career": "경력무관",
-    "employmentType": "계약직",
-    "postedAt": "2026-07-22",
-    "deadline": null,
-    "tags": [
-      "토스증권",
-      "Figma",
-      "Photoshop"
-    ],
-    "jdSummary": "합류하면 함께할 업무예요\n 토스증권의 Visual Design Assistant는 Visual Designer와 협업해요.\n 대내외 디자인 커뮤니케이션에 필요한 이미지 제작 서포트를 진행해요.\n 광고 성과 향상을 위",
-    "jdFull": [
-      "자세한 업무 내용과 자격요건은 원본 공고에서 확인해주세요."
-    ],
-    "originalUrl": "https://toss.im/career/job-detail?gh_jid=7779710003",
-    "aiAnalysis": {
-      "coreSkills": [
-        "브랜딩"
-      ],
-      "requiredTools": [
-        "Figma",
-        "Photoshop",
-        "Illustrator",
-        "After Effects"
-      ],
-      "preferred": [],
-      "keywords": [
-        {
-          "keyword": "Figma",
-          "count": 1
-        },
-        {
-          "keyword": "Photoshop",
-          "count": 1
-        },
-        {
-          "keyword": "Illustrator",
-          "count": 1
-        },
-        {
-          "keyword": "After Effects",
-          "count": 1
-        },
-        {
-          "keyword": "브랜딩",
-          "count": 1
-        }
-      ]
-    }
-  },
-  {
     "id": "toss-7792204003",
     "title": "Visual Designer",
     "companyId": "toss",
@@ -446,7 +323,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-07-22",
+    "postedAt": "2026-07-23",
     "deadline": null,
     "tags": [
       "토스커뮤니티",
@@ -492,7 +369,7 @@
     "location": "경기 성남시 분당구",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-07-22",
+    "postedAt": "2026-07-23",
     "deadline": "2026-08-02",
     "tags": [
       "네이버",
@@ -527,7 +404,7 @@
     "location": "경기 성남시 분당구",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-07-22",
+    "postedAt": "2026-07-23",
     "deadline": "2026-08-02",
     "tags": [
       "네이버",
