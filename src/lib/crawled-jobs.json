@@ -61,6 +61,42 @@
     }
   },
   {
+    "id": "kakao-P-14502",
+    "title": "카카오프렌즈 상품 디자인_어시스턴트",
+    "companyId": "kakao",
+    "platform": "기업 홈페이지",
+    "location": "경기 판교",
+    "career": "경력무관",
+    "employmentType": "정규직",
+    "postedAt": "2026-07-14",
+    "deadline": null,
+    "tags": [
+      "카카오",
+      "리서치"
+    ],
+    "jdSummary": "카카오프렌즈는 일상의 즐거움을 주는 캐릭터 라이프 스타일 브랜드 입니다.\n카카오프렌즈 상품 조직은 카카오프렌즈 IP(캐릭터)를 활용하여 온/오프 채널에서\n판매되는 PB 상품을 기획하고 디자인하여, 캐릭터 상품 전반에",
+    "jdFull": [
+      "카카오프렌즈는 일상의 즐거움을 주는 캐릭터 라이프 스타일 브랜드 입니다.\n카카오프렌즈 상품 조직은 카카오프렌즈 IP(캐릭터)를 활용하여 온/오프 채널에서\n판매되는 PB 상품을 기획하고 디자인하여, 캐릭터 상품 전반에 걸친 풍부한\n브랜드 경험을 제공합니다. 이를 통해 캐릭터를 사랑하는 팬들에게 더욱 매력적인\nIP 상품과 콘텐츠로 그 즐거움을 전달하고 있습니다.",
+      "자세한 자격요건과 우대사항은 원본 공고에서 확인해주세요."
+    ],
+    "originalUrl": "https://careers.kakao.com/jobs/P-14502",
+    "aiAnalysis": {
+      "coreSkills": [
+        "리서치"
+      ],
+      "requiredTools": [
+        "Figma"
+      ],
+      "preferred": [],
+      "keywords": [
+        {
+          "keyword": "리서치",
+          "count": 1
+        }
+      ]
+    }
+  },
+  {
     "id": "kakao-P-14507",
     "title": "콘텐츠디자인(촬영스텝 및 콘텐츠 제작)_어시스턴트",
     "companyId": "kakao",
@@ -107,42 +143,6 @@
     }
   },
   {
-    "id": "kakao-P-14502",
-    "title": "카카오프렌즈 상품 디자인_어시스턴트",
-    "companyId": "kakao",
-    "platform": "기업 홈페이지",
-    "location": "경기 판교",
-    "career": "경력무관",
-    "employmentType": "정규직",
-    "postedAt": "2026-07-14",
-    "deadline": null,
-    "tags": [
-      "카카오",
-      "리서치"
-    ],
-    "jdSummary": "카카오프렌즈는 일상의 즐거움을 주는 캐릭터 라이프 스타일 브랜드 입니다.\n카카오프렌즈 상품 조직은 카카오프렌즈 IP(캐릭터)를 활용하여 온/오프 채널에서\n판매되는 PB 상품을 기획하고 디자인하여, 캐릭터 상품 전반에",
-    "jdFull": [
-      "카카오프렌즈는 일상의 즐거움을 주는 캐릭터 라이프 스타일 브랜드 입니다.\n카카오프렌즈 상품 조직은 카카오프렌즈 IP(캐릭터)를 활용하여 온/오프 채널에서\n판매되는 PB 상품을 기획하고 디자인하여, 캐릭터 상품 전반에 걸친 풍부한\n브랜드 경험을 제공합니다. 이를 통해 캐릭터를 사랑하는 팬들에게 더욱 매력적인\nIP 상품과 콘텐츠로 그 즐거움을 전달하고 있습니다.",
-      "자세한 자격요건과 우대사항은 원본 공고에서 확인해주세요."
-    ],
-    "originalUrl": "https://careers.kakao.com/jobs/P-14502",
-    "aiAnalysis": {
-      "coreSkills": [
-        "리서치"
-      ],
-      "requiredTools": [
-        "Figma"
-      ],
-      "preferred": [],
-      "keywords": [
-        {
-          "keyword": "리서치",
-          "count": 1
-        }
-      ]
-    }
-  },
-  {
     "id": "toss-4326315003",
     "title": "Product Designer",
     "companyId": "toss",
@@ -150,7 +150,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-07-26",
+    "postedAt": "2026-07-27",
     "deadline": null,
     "tags": [
       "토스"
@@ -184,7 +184,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-07-26",
+    "postedAt": "2026-07-27",
     "deadline": null,
     "tags": [
       "토스플레이스",
@@ -212,28 +212,27 @@
     }
   },
   {
-    "id": "toss-7792204003",
+    "id": "toss-7810507003",
     "title": "Visual Designer",
     "companyId": "toss",
     "platform": "기업 홈페이지",
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-07-26",
+    "postedAt": "2026-07-27",
     "deadline": null,
     "tags": [
-      "토스커뮤니티",
-      "프로토타이핑",
-      "인터랙션"
+      "토스플레이스",
+      "인터랙션",
+      "브랜딩"
     ],
     "jdSummary": "Visual Designer를 소개해요\n  토스는 그동안 Graphic/Brand/Interaction/Platform Designer로 디자인 직군을 나누어 운영해 왔어요. 각 직군마다 잘하는 기술이 달랐기 때문이",
     "jdFull": [
       "자세한 업무 내용과 자격요건은 원본 공고에서 확인해주세요."
     ],
-    "originalUrl": "https://toss.im/career/job-detail?gh_jid=7792204003",
+    "originalUrl": "https://toss.im/career/job-detail?gh_jid=7810507003",
     "aiAnalysis": {
       "coreSkills": [
-        "프로토타이핑",
         "인터랙션",
         "브랜딩"
       ],
@@ -243,12 +242,8 @@
       "preferred": [],
       "keywords": [
         {
-          "keyword": "프로토타이핑",
-          "count": 2
-        },
-        {
           "keyword": "인터랙션",
-          "count": 2
+          "count": 1
         },
         {
           "keyword": "브랜딩",
@@ -265,7 +260,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-07-26",
+    "postedAt": "2026-07-27",
     "deadline": null,
     "tags": [
       "토스",
@@ -300,7 +295,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-07-26",
+    "postedAt": "2026-07-27",
     "deadline": null,
     "tags": [
       "토스뱅크"
@@ -334,7 +329,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-07-26",
+    "postedAt": "2026-07-27",
     "deadline": null,
     "tags": [
       "토스증권",
@@ -369,7 +364,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-07-26",
+    "postedAt": "2026-07-27",
     "deadline": null,
     "tags": [
       "토스뱅크",
@@ -412,6 +407,52 @@
     }
   },
   {
+    "id": "toss-7792204003",
+    "title": "토스커뮤니티 Visual Designer",
+    "companyId": "toss",
+    "platform": "기업 홈페이지",
+    "location": "서울",
+    "career": "경력무관",
+    "employmentType": "정규직",
+    "postedAt": "2026-07-27",
+    "deadline": null,
+    "tags": [
+      "토스커뮤니티",
+      "프로토타이핑",
+      "인터랙션"
+    ],
+    "jdSummary": "Visual Designer를 소개해요\n  토스는 그동안 Graphic/Brand/Interaction/Platform Designer로 디자인 직군을 나누어 운영해 왔어요. 각 직군마다 잘하는 기술이 달랐기 때문이",
+    "jdFull": [
+      "자세한 업무 내용과 자격요건은 원본 공고에서 확인해주세요."
+    ],
+    "originalUrl": "https://toss.im/career/job-detail?gh_jid=7792204003",
+    "aiAnalysis": {
+      "coreSkills": [
+        "프로토타이핑",
+        "인터랙션",
+        "브랜딩"
+      ],
+      "requiredTools": [
+        "Figma"
+      ],
+      "preferred": [],
+      "keywords": [
+        {
+          "keyword": "프로토타이핑",
+          "count": 2
+        },
+        {
+          "keyword": "인터랙션",
+          "count": 2
+        },
+        {
+          "keyword": "브랜딩",
+          "count": 1
+        }
+      ]
+    }
+  },
+  {
     "id": "naver-30005173",
     "title": "[네이버웹툰] Brand Media 콘텐츠 PD (계약직)",
     "companyId": "naver",
@@ -419,7 +460,7 @@
     "location": "경기 성남시 분당구",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-07-26",
+    "postedAt": "2026-07-27",
     "deadline": "2026-08-02",
     "tags": [
       "네이버",
@@ -454,7 +495,7 @@
     "location": "경기 성남시 분당구",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-07-26",
+    "postedAt": "2026-07-27",
     "deadline": "2026-08-02",
     "tags": [
       "네이버",
@@ -489,7 +530,7 @@
     "location": "경기 성남시 분당구",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-07-26",
+    "postedAt": "2026-07-27",
     "deadline": "2026-08-05",
     "tags": [
       "네이버",
