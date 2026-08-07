@@ -327,5 +327,110 @@
         }
       ]
     }
+  },
+  {
+    "id": "naver-30005269",
+    "title": "[NAVER] 소셜 미디어 영상 콘텐츠 제작 PD (계약)",
+    "companyId": "naver",
+    "platform": "기업 홈페이지",
+    "location": "경기 성남시 분당구",
+    "career": "경력무관",
+    "employmentType": "계약직",
+    "postedAt": "2026-08-07",
+    "deadline": "2026-08-18",
+    "tags": [
+      "네이버",
+      "Visual Comm. & Brand Design"
+    ],
+    "jdSummary": "Visual Comm. & Brand Design 직군 채용공고입니다.",
+    "jdFull": [
+      "자세한 업무 내용과 자격요건은 원본 공고에서 확인해주세요."
+    ],
+    "originalUrl": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005269&lang=ko",
+    "aiAnalysis": {
+      "coreSkills": [
+        "원본 공고에서 상세 내용을 확인해주세요"
+      ],
+      "requiredTools": [
+        "Figma"
+      ],
+      "preferred": [],
+      "keywords": [
+        {
+          "keyword": "디자인",
+          "count": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "naver-30005278",
+    "title": "[네이버웹툰] Cuts 그로스 디자인 (Growth Design) (체험형 인턴)",
+    "companyId": "naver",
+    "platform": "기업 홈페이지",
+    "location": "경기 성남시 분당구",
+    "career": "신입",
+    "employmentType": "인턴",
+    "postedAt": "2026-08-07",
+    "deadline": "2026-08-23",
+    "tags": [
+      "네이버",
+      "Product Design"
+    ],
+    "jdSummary": "Product Design 직군 채용공고입니다.",
+    "jdFull": [
+      "자세한 업무 내용과 자격요건은 원본 공고에서 확인해주세요."
+    ],
+    "originalUrl": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005278&lang=ko",
+    "aiAnalysis": {
+      "coreSkills": [
+        "그로스"
+      ],
+      "requiredTools": [
+        "Figma"
+      ],
+      "preferred": [],
+      "keywords": [
+        {
+          "keyword": "그로스",
+          "count": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "naver-30005270",
+    "title": "[네이버웹툰] 네이버웹툰 프로덕트 디자인 (체험형 인턴)",
+    "companyId": "naver",
+    "platform": "기업 홈페이지",
+    "location": "경기 성남시 분당구",
+    "career": "신입",
+    "employmentType": "인턴",
+    "postedAt": "2026-08-07",
+    "deadline": "2026-08-23",
+    "tags": [
+      "네이버",
+      "Product Design"
+    ],
+    "jdSummary": "Product Design 직군 채용공고입니다.",
+    "jdFull": [
+      "자세한 업무 내용과 자격요건은 원본 공고에서 확인해주세요."
+    ],
+    "originalUrl": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005270&lang=ko",
+    "aiAnalysis": {
+      "coreSkills": [
+        "원본 공고에서 상세 내용을 확인해주세요"
+      ],
+      "requiredTools": [
+        "Figma"
+      ],
+      "preferred": [],
+      "keywords": [
+        {
+          "keyword": "디자인",
+          "count": 1
+        }
+      ]
+    }
   }
 ]
