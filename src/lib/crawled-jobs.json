@@ -61,6 +61,47 @@
     }
   },
   {
+    "id": "kakao-P-14531",
+    "title": "카카오프렌즈/니니즈 SNS 콘텐츠 제작 및 운영관리_어시스턴트",
+    "companyId": "kakao",
+    "platform": "기업 홈페이지",
+    "location": "경기 판교",
+    "career": "경력무관",
+    "employmentType": "정규직",
+    "postedAt": "2026-08-18",
+    "deadline": null,
+    "tags": [
+      "카카오",
+      "Figma",
+      "리서치"
+    ],
+    "jdSummary": "카카오의 대표 캐릭터 카카오프렌즈와 신규 IP의 성장을 위해 콘텐츠를 기획·제작하고, 다양한 SNS 채널을 통해 팬들에게 전달하는 마케팅 및 퍼블리싱 업무를 함께 수행합니다. 캐릭터의 매력을 발견하고 콘텐츠를 통해 ",
+    "jdFull": [
+      "카카오의 대표 캐릭터 카카오프렌즈와 신규 IP의 성장을 위해 콘텐츠를 기획·제작하고, 다양한 SNS 채널을 통해 팬들에게 전달하는 마케팅 및 퍼블리싱 업무를 함께 수행합니다. 캐릭터의 매력을 발견하고 콘텐츠를 통해 더 많은 팬들과 연결하는 일을 함께 합니다.",
+      "자세한 자격요건과 우대사항은 원본 공고에서 확인해주세요."
+    ],
+    "originalUrl": "https://careers.kakao.com/jobs/P-14531",
+    "aiAnalysis": {
+      "coreSkills": [
+        "리서치"
+      ],
+      "requiredTools": [
+        "Figma"
+      ],
+      "preferred": [],
+      "keywords": [
+        {
+          "keyword": "Figma",
+          "count": 1
+        },
+        {
+          "keyword": "리서치",
+          "count": 1
+        }
+      ]
+    }
+  },
+  {
     "id": "kakao-P-14526",
     "title": "마케팅 콘텐츠 제작/운영 디자인_어시스턴트",
     "companyId": "kakao",
@@ -115,7 +156,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-08-17",
+    "postedAt": "2026-08-18",
     "deadline": null,
     "tags": [
       "토스"
@@ -149,7 +190,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-08-17",
+    "postedAt": "2026-08-18",
     "deadline": null,
     "tags": [
       "토스플레이스",
@@ -184,7 +225,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-08-17",
+    "postedAt": "2026-08-18",
     "deadline": null,
     "tags": [
       "토스커뮤니티",
@@ -230,7 +271,7 @@
     "location": "서울",
     "career": "경력 3~5년",
     "employmentType": "정규직",
-    "postedAt": "2026-08-17",
+    "postedAt": "2026-08-18",
     "deadline": null,
     "tags": [
       "토스"
@@ -264,7 +305,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-08-17",
+    "postedAt": "2026-08-18",
     "deadline": null,
     "tags": [
       "토스",
@@ -299,7 +340,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-08-17",
+    "postedAt": "2026-08-18",
     "deadline": null,
     "tags": [
       "토스뱅크"
@@ -333,7 +374,7 @@
     "location": "seoul",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-08-17",
+    "postedAt": "2026-08-18",
     "deadline": null,
     "tags": [
       "토스증권",
@@ -373,7 +414,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-08-17",
+    "postedAt": "2026-08-18",
     "deadline": null,
     "tags": [
       "토스뱅크",
@@ -416,41 +457,6 @@
     }
   },
   {
-    "id": "naver-30005269",
-    "title": "[NAVER] 소셜 미디어 영상 콘텐츠 제작 PD (계약)",
-    "companyId": "naver",
-    "platform": "기업 홈페이지",
-    "location": "경기 성남시 분당구",
-    "career": "경력무관",
-    "employmentType": "계약직",
-    "postedAt": "2026-08-17",
-    "deadline": "2026-08-18",
-    "tags": [
-      "네이버",
-      "Visual Comm. & Brand Design"
-    ],
-    "jdSummary": "Visual Comm. & Brand Design 직군 채용공고입니다.",
-    "jdFull": [
-      "자세한 업무 내용과 자격요건은 원본 공고에서 확인해주세요."
-    ],
-    "originalUrl": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005269&lang=ko",
-    "aiAnalysis": {
-      "coreSkills": [
-        "원본 공고에서 상세 내용을 확인해주세요"
-      ],
-      "requiredTools": [
-        "Figma"
-      ],
-      "preferred": [],
-      "keywords": [
-        {
-          "keyword": "디자인",
-          "count": 1
-        }
-      ]
-    }
-  },
-  {
     "id": "naver-30005278",
     "title": "[네이버웹툰] Cuts 그로스 디자인 (Growth Design) (체험형 인턴)",
     "companyId": "naver",
@@ -458,7 +464,7 @@
     "location": "경기 성남시 분당구",
     "career": "신입",
     "employmentType": "인턴",
-    "postedAt": "2026-08-17",
+    "postedAt": "2026-08-18",
     "deadline": "2026-08-23",
     "tags": [
       "네이버",
@@ -493,7 +499,7 @@
     "location": "경기 성남시 분당구",
     "career": "신입",
     "employmentType": "인턴",
-    "postedAt": "2026-08-17",
+    "postedAt": "2026-08-18",
     "deadline": "2026-08-23",
     "tags": [
       "네이버",
