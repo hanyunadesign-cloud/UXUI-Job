@@ -156,7 +156,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-08-21",
+    "postedAt": "2026-08-22",
     "deadline": null,
     "tags": [
       "토스"
@@ -190,7 +190,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-08-21",
+    "postedAt": "2026-08-22",
     "deadline": null,
     "tags": [
       "토스플레이스",
@@ -225,7 +225,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-08-21",
+    "postedAt": "2026-08-22",
     "deadline": null,
     "tags": [
       "토스커뮤니티",
@@ -271,7 +271,7 @@
     "location": "서울",
     "career": "경력 3~5년",
     "employmentType": "정규직",
-    "postedAt": "2026-08-21",
+    "postedAt": "2026-08-22",
     "deadline": null,
     "tags": [
       "토스"
@@ -305,7 +305,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-08-21",
+    "postedAt": "2026-08-22",
     "deadline": null,
     "tags": [
       "토스",
@@ -340,7 +340,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-08-21",
+    "postedAt": "2026-08-22",
     "deadline": null,
     "tags": [
       "토스뱅크"
@@ -367,46 +367,6 @@
     }
   },
   {
-    "id": "toss-7827564003",
-    "title": "토스증권 Product Design Partner 집중 채용 (~8/23)",
-    "companyId": "toss",
-    "platform": "기업 홈페이지",
-    "location": "seoul",
-    "career": "경력무관",
-    "employmentType": "계약직",
-    "postedAt": "2026-08-21",
-    "deadline": null,
-    "tags": [
-      "토스증권",
-      "Figma",
-      "리서치"
-    ],
-    "jdSummary": "!banner(https://static.toss.im/photos/PDP_recruit_greenhouse_1200x244.png)\n\n\n\n\n\n\n 📢 Product Design Partner 집중 채용\n디자인과 성",
-    "jdFull": [
-      "자세한 업무 내용과 자격요건은 원본 공고에서 확인해주세요."
-    ],
-    "originalUrl": "https://toss.im/career/job-detail?gh_jid=7827564003",
-    "aiAnalysis": {
-      "coreSkills": [
-        "리서치"
-      ],
-      "requiredTools": [
-        "Figma"
-      ],
-      "preferred": [],
-      "keywords": [
-        {
-          "keyword": "Figma",
-          "count": 1
-        },
-        {
-          "keyword": "리서치",
-          "count": 1
-        }
-      ]
-    }
-  },
-  {
     "id": "toss-5748739003",
     "title": "Visual Design Assistant",
     "companyId": "toss",
@@ -414,7 +374,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-08-21",
+    "postedAt": "2026-08-22",
     "deadline": null,
     "tags": [
       "토스뱅크",
@@ -464,7 +424,7 @@
     "location": "경기 성남시 분당구",
     "career": "신입",
     "employmentType": "인턴",
-    "postedAt": "2026-08-21",
+    "postedAt": "2026-08-22",
     "deadline": "2026-08-23",
     "tags": [
       "네이버",
@@ -499,7 +459,7 @@
     "location": "경기 성남시 분당구",
     "career": "신입",
     "employmentType": "인턴",
-    "postedAt": "2026-08-21",
+    "postedAt": "2026-08-22",
     "deadline": "2026-08-23",
     "tags": [
       "네이버",
