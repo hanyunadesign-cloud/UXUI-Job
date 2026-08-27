@@ -156,7 +156,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-08-25",
+    "postedAt": "2026-08-27",
     "deadline": null,
     "tags": [
       "토스"
@@ -190,7 +190,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-08-25",
+    "postedAt": "2026-08-27",
     "deadline": null,
     "tags": [
       "토스플레이스",
@@ -225,7 +225,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-08-25",
+    "postedAt": "2026-08-27",
     "deadline": null,
     "tags": [
       "토스커뮤니티",
@@ -271,7 +271,7 @@
     "location": "서울",
     "career": "경력 3~5년",
     "employmentType": "정규직",
-    "postedAt": "2026-08-25",
+    "postedAt": "2026-08-27",
     "deadline": null,
     "tags": [
       "토스"
@@ -305,7 +305,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-08-25",
+    "postedAt": "2026-08-27",
     "deadline": null,
     "tags": [
       "토스",
@@ -340,7 +340,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-08-25",
+    "postedAt": "2026-08-27",
     "deadline": null,
     "tags": [
       "토스뱅크"
@@ -367,56 +367,6 @@
     }
   },
   {
-    "id": "toss-5748739003",
-    "title": "Visual Design Assistant",
-    "companyId": "toss",
-    "platform": "기업 홈페이지",
-    "location": "서울",
-    "career": "경력무관",
-    "employmentType": "계약직",
-    "postedAt": "2026-08-25",
-    "deadline": null,
-    "tags": [
-      "토스뱅크",
-      "브랜딩",
-      "Figma"
-    ],
-    "jdSummary": "합류하게 될 팀에 대해 알려드려요\n 토스뱅크 Brand Communications Team은 토스뱅크의 모든 브랜드 접점에서 다양한 브랜딩 활동을 전개해요.\n Brand Marketer, Visual Designer",
-    "jdFull": [
-      "자세한 업무 내용과 자격요건은 원본 공고에서 확인해주세요."
-    ],
-    "originalUrl": "https://toss.im/career/job-detail?gh_jid=5748739003",
-    "aiAnalysis": {
-      "coreSkills": [
-        "브랜딩"
-      ],
-      "requiredTools": [
-        "Figma",
-        "Photoshop",
-        "Illustrator"
-      ],
-      "preferred": [],
-      "keywords": [
-        {
-          "keyword": "브랜딩",
-          "count": 2
-        },
-        {
-          "keyword": "Figma",
-          "count": 1
-        },
-        {
-          "keyword": "Photoshop",
-          "count": 1
-        },
-        {
-          "keyword": "Illustrator",
-          "count": 1
-        }
-      ]
-    }
-  },
-  {
     "id": "toss-7955126003",
     "title": "Visual Design Assistant",
     "companyId": "toss",
@@ -424,7 +374,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-08-25",
+    "postedAt": "2026-08-27",
     "deadline": null,
     "tags": [
       "토스",
@@ -474,7 +424,7 @@
     "location": "경기 성남시 분당구",
     "career": "신입",
     "employmentType": "인턴",
-    "postedAt": "2026-08-25",
+    "postedAt": "2026-08-27",
     "deadline": "2026-09-08",
     "tags": [
       "네이버",
@@ -509,7 +459,7 @@
     "location": "경기 성남시 분당구",
     "career": "신입",
     "employmentType": "인턴",
-    "postedAt": "2026-08-25",
+    "postedAt": "2026-08-27",
     "deadline": "2026-09-08",
     "tags": [
       "네이버",
@@ -544,7 +494,7 @@
     "location": "경기 성남시 분당구",
     "career": "신입",
     "employmentType": "인턴",
-    "postedAt": "2026-08-25",
+    "postedAt": "2026-08-27",
     "deadline": "2026-09-08",
     "tags": [
       "네이버",
@@ -579,7 +529,7 @@
     "location": "경기 성남시 분당구",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-08-25",
+    "postedAt": "2026-08-27",
     "deadline": "2026-09-13",
     "tags": [
       "네이버",
