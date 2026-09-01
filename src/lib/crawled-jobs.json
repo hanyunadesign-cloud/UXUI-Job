@@ -102,53 +102,6 @@
     }
   },
   {
-    "id": "kakao-P-14526",
-    "title": "마케팅 콘텐츠 제작/운영 디자인_어시스턴트",
-    "companyId": "kakao",
-    "platform": "기업 홈페이지",
-    "location": "경기 판교",
-    "career": "경력무관",
-    "employmentType": "정규직",
-    "postedAt": "2026-08-12",
-    "deadline": null,
-    "tags": [
-      "카카오",
-      "Figma",
-      "Photoshop"
-    ],
-    "jdSummary": "M TF는 고객과 다양한 제휴사를 연결하여 사용자 가치를 높이는 신규 프로젝트 조직입니다.\n신규 프로젝트의 제휴, 런칭 마케팅 및 서비스 지면을 통한 사용자 유입부터 사용, 파트너사의 연결까지 전 과정의 업무를 진행",
-    "jdFull": [
-      "M TF는 고객과 다양한 제휴사를 연결하여 사용자 가치를 높이는 신규 프로젝트 조직입니다.\n신규 프로젝트의 제휴, 런칭 마케팅 및 서비스 지면을 통한 사용자 유입부터 사용, 파트너사의 연결까지 전 과정의 업무를 진행하고 있습니다.",
-      "자세한 자격요건과 우대사항은 원본 공고에서 확인해주세요."
-    ],
-    "originalUrl": "https://careers.kakao.com/jobs/P-14526",
-    "aiAnalysis": {
-      "coreSkills": [
-        "원본 공고에서 상세 내용을 확인해주세요"
-      ],
-      "requiredTools": [
-        "Figma",
-        "Photoshop",
-        "Illustrator"
-      ],
-      "preferred": [],
-      "keywords": [
-        {
-          "keyword": "Figma",
-          "count": 1
-        },
-        {
-          "keyword": "Photoshop",
-          "count": 1
-        },
-        {
-          "keyword": "Illustrator",
-          "count": 1
-        }
-      ]
-    }
-  },
-  {
     "id": "toss-4326315003",
     "title": "Product Designer",
     "companyId": "toss",
@@ -368,7 +321,7 @@
   },
   {
     "id": "toss-7915249003",
-    "title": "토스증권 Product Designer 집중 채용 (2년 이상)",
+    "title": "토스증권 Product Designer 집중 채용 (~9/15)",
     "companyId": "toss",
     "platform": "기업 홈페이지",
     "location": "서울",
@@ -380,7 +333,7 @@
       "토스증권",
       "리서치"
     ],
-    "jdSummary": "!banner(https://static.toss.im/disposables/static/0819_PDrecruit_careerpage_banner_copy1.png)\n\n\n\n\n\n✨ 집중 채용 기간에만 드리는 혜택이 ",
+    "jdSummary": "!banner(https://static.toss.im/disposables/static/0819_PDrecruit_careerpage_banner_copy1.png)\n\n\n\n\n\n✨ Product Designer(2년",
     "jdFull": [
       "자세한 업무 내용과 자격요건은 원본 공고에서 확인해주세요."
     ],
@@ -595,6 +548,41 @@
       "자세한 업무 내용과 자격요건은 원본 공고에서 확인해주세요."
     ],
     "originalUrl": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005369&lang=ko",
+    "aiAnalysis": {
+      "coreSkills": [
+        "원본 공고에서 상세 내용을 확인해주세요"
+      ],
+      "requiredTools": [
+        "Figma"
+      ],
+      "preferred": [],
+      "keywords": [
+        {
+          "keyword": "디자인",
+          "count": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "naver-30005380",
+    "title": "[네이버웹툰] Brand Media 콘텐츠 마케터 (체험형 인턴)",
+    "companyId": "naver",
+    "platform": "기업 홈페이지",
+    "location": "경기 성남시 분당구",
+    "career": "신입",
+    "employmentType": "인턴",
+    "postedAt": "2026-09-01",
+    "deadline": "2026-09-14",
+    "tags": [
+      "네이버",
+      "Visual Comm. & Brand Design"
+    ],
+    "jdSummary": "Visual Comm. & Brand Design 직군 채용공고입니다.",
+    "jdFull": [
+      "자세한 업무 내용과 자격요건은 원본 공고에서 확인해주세요."
+    ],
+    "originalUrl": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005380&lang=ko",
     "aiAnalysis": {
       "coreSkills": [
         "원본 공고에서 상세 내용을 확인해주세요"
