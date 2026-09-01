@@ -156,7 +156,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-08-30",
+    "postedAt": "2026-09-01",
     "deadline": null,
     "tags": [
       "토스"
@@ -190,7 +190,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-08-30",
+    "postedAt": "2026-09-01",
     "deadline": null,
     "tags": [
       "토스플레이스",
@@ -225,7 +225,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-08-30",
+    "postedAt": "2026-09-01",
     "deadline": null,
     "tags": [
       "토스커뮤니티",
@@ -271,7 +271,7 @@
     "location": "서울",
     "career": "경력 3~5년",
     "employmentType": "정규직",
-    "postedAt": "2026-08-30",
+    "postedAt": "2026-09-01",
     "deadline": null,
     "tags": [
       "토스"
@@ -305,7 +305,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-08-30",
+    "postedAt": "2026-09-01",
     "deadline": null,
     "tags": [
       "토스",
@@ -340,7 +340,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-08-30",
+    "postedAt": "2026-09-01",
     "deadline": null,
     "tags": [
       "토스뱅크"
@@ -367,6 +367,76 @@
     }
   },
   {
+    "id": "toss-7915249003",
+    "title": "토스증권 Product Designer 집중 채용 (2년 이상)",
+    "companyId": "toss",
+    "platform": "기업 홈페이지",
+    "location": "서울",
+    "career": "경력 1~3년",
+    "employmentType": "정규직",
+    "postedAt": "2026-09-01",
+    "deadline": null,
+    "tags": [
+      "토스증권",
+      "리서치"
+    ],
+    "jdSummary": "!banner(https://static.toss.im/disposables/static/0819_PDrecruit_careerpage_banner_copy1.png)\n\n\n\n\n\n✨ 집중 채용 기간에만 드리는 혜택이 ",
+    "jdFull": [
+      "자세한 업무 내용과 자격요건은 원본 공고에서 확인해주세요."
+    ],
+    "originalUrl": "https://toss.im/career/job-detail?gh_jid=7915249003",
+    "aiAnalysis": {
+      "coreSkills": [
+        "리서치"
+      ],
+      "requiredTools": [
+        "Figma"
+      ],
+      "preferred": [],
+      "keywords": [
+        {
+          "keyword": "리서치",
+          "count": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "toss-6330365003",
+    "title": "User Interview Assistant",
+    "companyId": "toss",
+    "platform": "기업 홈페이지",
+    "location": "서울",
+    "career": "경력무관",
+    "employmentType": "계약직",
+    "postedAt": "2026-09-01",
+    "deadline": null,
+    "tags": [
+      "토스뱅크",
+      "리서치"
+    ],
+    "jdSummary": "합류하면 함께 할 업무예요\n 토스뱅크 사용자를 대상으로 진행하는 온/오프라인 인터뷰 프로세스를 운영해요.\n 인터뷰 일정 조율, 시작 전 사전 안내, 사례비 지급, 기타 문의 사항 안내 등 사용자 인터뷰 프로세스 전반",
+    "jdFull": [
+      "자세한 업무 내용과 자격요건은 원본 공고에서 확인해주세요."
+    ],
+    "originalUrl": "https://toss.im/career/job-detail?gh_jid=6330365003",
+    "aiAnalysis": {
+      "coreSkills": [
+        "리서치"
+      ],
+      "requiredTools": [
+        "Figma"
+      ],
+      "preferred": [],
+      "keywords": [
+        {
+          "keyword": "리서치",
+          "count": 1
+        }
+      ]
+    }
+  },
+  {
     "id": "naver-30005342",
     "title": "[네이버웹툰] IP Branding & Marketing Design (체험형 인턴)",
     "companyId": "naver",
@@ -374,7 +444,7 @@
     "location": "경기 성남시 분당구",
     "career": "신입",
     "employmentType": "인턴",
-    "postedAt": "2026-08-30",
+    "postedAt": "2026-09-01",
     "deadline": "2026-09-08",
     "tags": [
       "네이버",
@@ -409,7 +479,7 @@
     "location": "경기 성남시 분당구",
     "career": "신입",
     "employmentType": "인턴",
-    "postedAt": "2026-08-30",
+    "postedAt": "2026-09-01",
     "deadline": "2026-09-08",
     "tags": [
       "네이버",
@@ -444,7 +514,7 @@
     "location": "경기 성남시 분당구",
     "career": "신입",
     "employmentType": "인턴",
-    "postedAt": "2026-08-30",
+    "postedAt": "2026-09-01",
     "deadline": "2026-09-08",
     "tags": [
       "네이버",
@@ -479,7 +549,7 @@
     "location": "경기 성남시 분당구",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-08-30",
+    "postedAt": "2026-09-01",
     "deadline": "2026-09-13",
     "tags": [
       "네이버",
@@ -514,7 +584,7 @@
     "location": "경기 성남시 분당구",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-08-30",
+    "postedAt": "2026-09-01",
     "deadline": "2026-09-13",
     "tags": [
       "네이버",
