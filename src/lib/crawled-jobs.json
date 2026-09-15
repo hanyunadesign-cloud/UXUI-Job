@@ -145,7 +145,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-09-14",
+    "postedAt": "2026-09-15",
     "deadline": null,
     "tags": [
       "토스"
@@ -179,7 +179,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-09-14",
+    "postedAt": "2026-09-15",
     "deadline": null,
     "tags": [
       "토스플레이스",
@@ -214,7 +214,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-09-14",
+    "postedAt": "2026-09-15",
     "deadline": null,
     "tags": [
       "토스플레이스",
@@ -249,7 +249,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-09-14",
+    "postedAt": "2026-09-15",
     "deadline": null,
     "tags": [
       "토스커뮤니티",
@@ -295,7 +295,7 @@
     "location": "서울",
     "career": "경력 3~5년",
     "employmentType": "정규직",
-    "postedAt": "2026-09-14",
+    "postedAt": "2026-09-15",
     "deadline": null,
     "tags": [
       "토스"
@@ -329,7 +329,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-09-14",
+    "postedAt": "2026-09-15",
     "deadline": null,
     "tags": [
       "토스",
@@ -364,7 +364,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-09-14",
+    "postedAt": "2026-09-15",
     "deadline": null,
     "tags": [
       "토스뱅크"
@@ -392,13 +392,13 @@
   },
   {
     "id": "toss-7989633003",
-    "title": "Product Designer (신입)",
+    "title": "토스뱅크 Product Designer (신입, 2년 이하) (~9/30)",
     "companyId": "toss",
     "platform": "기업 홈페이지",
     "location": "서울",
     "career": "신입",
     "employmentType": "정규직",
-    "postedAt": "2026-09-14",
+    "postedAt": "2026-09-15",
     "deadline": null,
     "tags": [
       "토스뱅크",
@@ -442,41 +442,6 @@
     }
   },
   {
-    "id": "toss-7915249003",
-    "title": "토스증권 Product Designer 집중 채용 (2년 이상) (~9/15)",
-    "companyId": "toss",
-    "platform": "기업 홈페이지",
-    "location": "서울",
-    "career": "경력 1~3년",
-    "employmentType": "정규직",
-    "postedAt": "2026-09-14",
-    "deadline": null,
-    "tags": [
-      "토스증권",
-      "리서치"
-    ],
-    "jdSummary": "!banner(https://static.toss.im/disposables/static/0819_PDrecruit_careerpage_banner_copy1.png)\n\n\n\n\n\n✨ Product Designer(2년",
-    "jdFull": [
-      "자세한 업무 내용과 자격요건은 원본 공고에서 확인해주세요."
-    ],
-    "originalUrl": "https://toss.im/career/job-detail?gh_jid=7915249003",
-    "aiAnalysis": {
-      "coreSkills": [
-        "리서치"
-      ],
-      "requiredTools": [
-        "Figma"
-      ],
-      "preferred": [],
-      "keywords": [
-        {
-          "keyword": "리서치",
-          "count": 1
-        }
-      ]
-    }
-  },
-  {
     "id": "naver-30005386",
     "title": "[네이버웹툰] Brand Media 콘텐츠 PD (계약직)",
     "companyId": "naver",
@@ -484,7 +449,7 @@
     "location": "경기 성남시 분당구",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-09-14",
+    "postedAt": "2026-09-15",
     "deadline": "2026-09-20",
     "tags": [
       "네이버",
@@ -519,7 +484,7 @@
     "location": "경기 성남시 분당구",
     "career": "신입",
     "employmentType": "인턴",
-    "postedAt": "2026-09-14",
+    "postedAt": "2026-09-15",
     "deadline": "2026-09-20",
     "tags": [
       "네이버",
@@ -554,7 +519,7 @@
     "location": "경기 성남시 분당구",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-09-14",
+    "postedAt": "2026-09-15",
     "deadline": "2026-09-20",
     "tags": [
       "네이버",
@@ -589,7 +554,7 @@
     "location": "경기 성남시 분당구",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-09-14",
+    "postedAt": "2026-09-15",
     "deadline": "2026-09-27",
     "tags": [
       "네이버",
