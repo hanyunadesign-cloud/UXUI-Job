@@ -138,6 +138,98 @@
     }
   },
   {
+    "id": "toss-6269297003",
+    "title": "Brand Design Assistant",
+    "companyId": "toss",
+    "platform": "기업 홈페이지",
+    "location": "서울",
+    "career": "경력무관",
+    "employmentType": "계약직",
+    "postedAt": "2026-09-21",
+    "deadline": null,
+    "tags": [
+      "토스플레이스",
+      "Figma",
+      "Photoshop"
+    ],
+    "jdSummary": "합류하면 함께 할 업무예요\n 토스플레이스 Brand Team 내 Design Assistant는 Visual Designer와 협업해요.\n 제안서 편집 디자인, 내부 행사 그래픽 제작과 관련된 사내 요청 업무를 지원",
+    "jdFull": [
+      "자세한 업무 내용과 자격요건은 원본 공고에서 확인해주세요."
+    ],
+    "originalUrl": "https://toss.im/career/job-detail?gh_jid=6269297003",
+    "aiAnalysis": {
+      "coreSkills": [
+        "원본 공고에서 상세 내용을 확인해주세요"
+      ],
+      "requiredTools": [
+        "Figma",
+        "Photoshop",
+        "Illustrator"
+      ],
+      "preferred": [],
+      "keywords": [
+        {
+          "keyword": "Figma",
+          "count": 1
+        },
+        {
+          "keyword": "Photoshop",
+          "count": 1
+        },
+        {
+          "keyword": "Illustrator",
+          "count": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "toss-5589072003",
+    "title": "Design Assistant",
+    "companyId": "toss",
+    "platform": "기업 홈페이지",
+    "location": "서울",
+    "career": "경력무관",
+    "employmentType": "계약직",
+    "postedAt": "2026-09-21",
+    "deadline": null,
+    "tags": [
+      "토스플레이스",
+      "Figma",
+      "Photoshop"
+    ],
+    "jdSummary": "합류하면 함께 할 업무예요\n 토스플레이스 Design Platform Team 내 Design Assistant는 Visual Designer와 협업해요.\n 광고 그래픽 제작 및 검수, 광고 개발 등 그래픽 관련 업",
+    "jdFull": [
+      "자세한 업무 내용과 자격요건은 원본 공고에서 확인해주세요."
+    ],
+    "originalUrl": "https://toss.im/career/job-detail?gh_jid=5589072003",
+    "aiAnalysis": {
+      "coreSkills": [
+        "원본 공고에서 상세 내용을 확인해주세요"
+      ],
+      "requiredTools": [
+        "Figma",
+        "Photoshop",
+        "Illustrator"
+      ],
+      "preferred": [],
+      "keywords": [
+        {
+          "keyword": "Figma",
+          "count": 1
+        },
+        {
+          "keyword": "Photoshop",
+          "count": 1
+        },
+        {
+          "keyword": "Illustrator",
+          "count": 1
+        }
+      ]
+    }
+  },
+  {
     "id": "toss-4326315003",
     "title": "Product Designer",
     "companyId": "toss",
@@ -145,7 +237,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-09-20",
+    "postedAt": "2026-09-21",
     "deadline": null,
     "tags": [
       "토스"
@@ -179,7 +271,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-09-20",
+    "postedAt": "2026-09-21",
     "deadline": null,
     "tags": [
       "토스플레이스",
@@ -214,7 +306,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-09-20",
+    "postedAt": "2026-09-21",
     "deadline": null,
     "tags": [
       "토스플레이스",
@@ -249,7 +341,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-09-20",
+    "postedAt": "2026-09-21",
     "deadline": null,
     "tags": [
       "토스커뮤니티",
@@ -295,7 +387,7 @@
     "location": "서울",
     "career": "경력 3~5년",
     "employmentType": "정규직",
-    "postedAt": "2026-09-20",
+    "postedAt": "2026-09-21",
     "deadline": null,
     "tags": [
       "토스"
@@ -329,10 +421,11 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-09-20",
+    "postedAt": "2026-09-21",
     "deadline": null,
     "tags": [
-      "토스"
+      "토스",
+      "리서치"
     ],
     "jdSummary": "The team you'll join\n Toss Global is expanding into new markets, starting with Australia. As we grow, we’re building our",
     "jdFull": [
@@ -341,7 +434,7 @@
     "originalUrl": "https://toss.im/career/job-detail?gh_jid=7997909003",
     "aiAnalysis": {
       "coreSkills": [
-        "원본 공고에서 상세 내용을 확인해주세요"
+        "리서치"
       ],
       "requiredTools": [
         "Figma"
@@ -349,8 +442,8 @@
       "preferred": [],
       "keywords": [
         {
-          "keyword": "디자인",
-          "count": 1
+          "keyword": "리서치",
+          "count": 9
         }
       ]
     }
@@ -363,7 +456,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-09-20",
+    "postedAt": "2026-09-21",
     "deadline": null,
     "tags": [
       "토스",
@@ -398,7 +491,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-09-20",
+    "postedAt": "2026-09-21",
     "deadline": null,
     "tags": [
       "토스뱅크"
@@ -432,7 +525,7 @@
     "location": "서울",
     "career": "신입",
     "employmentType": "정규직",
-    "postedAt": "2026-09-20",
+    "postedAt": "2026-09-21",
     "deadline": null,
     "tags": [
       "토스뱅크",
@@ -483,7 +576,7 @@
     "location": "경기 성남시 분당구",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-09-20",
+    "postedAt": "2026-09-21",
     "deadline": "2026-09-27",
     "tags": [
       "네이버",
