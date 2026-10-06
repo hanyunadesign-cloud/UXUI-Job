@@ -61,42 +61,6 @@
     }
   },
   {
-    "id": "kakao-P-14556",
-    "title": "카카오프렌즈 상품 디자인_어시스턴트",
-    "companyId": "kakao",
-    "platform": "기업 홈페이지",
-    "location": "경기 판교",
-    "career": "경력무관",
-    "employmentType": "정규직",
-    "postedAt": "2026-09-28",
-    "deadline": null,
-    "tags": [
-      "카카오",
-      "리서치"
-    ],
-    "jdSummary": "카카오프렌즈는 일상의 즐거움을 주는 캐릭터 라이프 스타일 브랜드 입니다.\n카카오프렌즈 상품 조직은 카카오프렌즈 IP(캐릭터)를 활용하여 온/오프 채널에서 판매되는 PB 상품을 기획하고 디자인하여, 캐릭터 상품 전반에",
-    "jdFull": [
-      "카카오프렌즈는 일상의 즐거움을 주는 캐릭터 라이프 스타일 브랜드 입니다.\n카카오프렌즈 상품 조직은 카카오프렌즈 IP(캐릭터)를 활용하여 온/오프 채널에서 판매되는 PB 상품을 기획하고 디자인하여, 캐릭터 상품 전반에 걸친 풍부한 브랜드 경험을 제공합니다. 이를 통해 캐릭터를 사랑하는 팬들에게 더욱 매력적인 IP 상품과 콘텐츠로 그 즐거움을 전달하고 있습니다.",
-      "자세한 자격요건과 우대사항은 원본 공고에서 확인해주세요."
-    ],
-    "originalUrl": "https://careers.kakao.com/jobs/P-14556",
-    "aiAnalysis": {
-      "coreSkills": [
-        "리서치"
-      ],
-      "requiredTools": [
-        "Figma"
-      ],
-      "preferred": [],
-      "keywords": [
-        {
-          "keyword": "리서치",
-          "count": 1
-        }
-      ]
-    }
-  },
-  {
     "id": "kakao-P-14545",
     "title": "카카오프렌즈 공간디자인 VMD_어시스턴트",
     "companyId": "kakao",
@@ -133,6 +97,42 @@
     }
   },
   {
+    "id": "kakao-P-14556",
+    "title": "카카오프렌즈 상품 디자인_어시스턴트",
+    "companyId": "kakao",
+    "platform": "기업 홈페이지",
+    "location": "경기 판교",
+    "career": "경력무관",
+    "employmentType": "정규직",
+    "postedAt": "2026-09-28",
+    "deadline": null,
+    "tags": [
+      "카카오",
+      "리서치"
+    ],
+    "jdSummary": "카카오프렌즈는 일상의 즐거움을 주는 캐릭터 라이프 스타일 브랜드 입니다.\n카카오프렌즈 상품 조직은 카카오프렌즈 IP(캐릭터)를 활용하여 온/오프 채널에서 판매되는 PB 상품을 기획하고 디자인하여, 캐릭터 상품 전반에",
+    "jdFull": [
+      "카카오프렌즈는 일상의 즐거움을 주는 캐릭터 라이프 스타일 브랜드 입니다.\n카카오프렌즈 상품 조직은 카카오프렌즈 IP(캐릭터)를 활용하여 온/오프 채널에서 판매되는 PB 상품을 기획하고 디자인하여, 캐릭터 상품 전반에 걸친 풍부한 브랜드 경험을 제공합니다. 이를 통해 캐릭터를 사랑하는 팬들에게 더욱 매력적인 IP 상품과 콘텐츠로 그 즐거움을 전달하고 있습니다.",
+      "자세한 자격요건과 우대사항은 원본 공고에서 확인해주세요."
+    ],
+    "originalUrl": "https://careers.kakao.com/jobs/P-14556",
+    "aiAnalysis": {
+      "coreSkills": [
+        "리서치"
+      ],
+      "requiredTools": [
+        "Figma"
+      ],
+      "preferred": [],
+      "keywords": [
+        {
+          "keyword": "리서치",
+          "count": 1
+        }
+      ]
+    }
+  },
+  {
     "id": "toss-4326315003",
     "title": "Product Designer",
     "companyId": "toss",
@@ -140,7 +140,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-10-04",
+    "postedAt": "2026-10-06",
     "deadline": null,
     "tags": [
       "토스"
@@ -174,7 +174,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-10-04",
+    "postedAt": "2026-10-06",
     "deadline": null,
     "tags": [
       "토스플레이스",
@@ -220,7 +220,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-10-04",
+    "postedAt": "2026-10-06",
     "deadline": null,
     "tags": [
       "토스플레이스",
@@ -266,7 +266,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-10-04",
+    "postedAt": "2026-10-06",
     "deadline": null,
     "tags": [
       "토스플레이스",
@@ -301,7 +301,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-10-04",
+    "postedAt": "2026-10-06",
     "deadline": null,
     "tags": [
       "토스플레이스",
@@ -336,7 +336,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-10-04",
+    "postedAt": "2026-10-06",
     "deadline": null,
     "tags": [
       "토스",
@@ -382,7 +382,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-10-04",
+    "postedAt": "2026-10-06",
     "deadline": null,
     "tags": [
       "토스증권",
@@ -417,7 +417,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-10-04",
+    "postedAt": "2026-10-06",
     "deadline": null,
     "tags": [
       "토스뱅크",
@@ -458,7 +458,7 @@
     "location": "서울",
     "career": "경력 3~5년",
     "employmentType": "정규직",
-    "postedAt": "2026-10-04",
+    "postedAt": "2026-10-06",
     "deadline": null,
     "tags": [
       "토스"
@@ -492,7 +492,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-10-04",
+    "postedAt": "2026-10-06",
     "deadline": null,
     "tags": [
       "토스",
@@ -527,7 +527,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-10-04",
+    "postedAt": "2026-10-06",
     "deadline": null,
     "tags": [
       "토스",
@@ -562,7 +562,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-10-04",
+    "postedAt": "2026-10-06",
     "deadline": null,
     "tags": [
       "토스뱅크"
@@ -596,7 +596,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-10-04",
+    "postedAt": "2026-10-06",
     "deadline": null,
     "tags": [
       "토스",
@@ -646,7 +646,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-10-04",
+    "postedAt": "2026-10-06",
     "deadline": null,
     "tags": [
       "토스플레이스",
@@ -681,7 +681,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-10-04",
+    "postedAt": "2026-10-06",
     "deadline": null,
     "tags": [
       "토스"
@@ -691,41 +691,6 @@
       "자세한 업무 내용과 자격요건은 원본 공고에서 확인해주세요."
     ],
     "originalUrl": "https://toss.im/career/job-detail?gh_jid=8011312003",
-    "aiAnalysis": {
-      "coreSkills": [
-        "원본 공고에서 상세 내용을 확인해주세요"
-      ],
-      "requiredTools": [
-        "Figma"
-      ],
-      "preferred": [],
-      "keywords": [
-        {
-          "keyword": "디자인",
-          "count": 1
-        }
-      ]
-    }
-  },
-  {
-    "id": "naver-30005468",
-    "title": "[NAVER] 헬스케어 UX 디자인 (경력)",
-    "companyId": "naver",
-    "platform": "기업 홈페이지",
-    "location": "경기 성남시 분당구",
-    "career": "경력무관",
-    "employmentType": "정규직",
-    "postedAt": "2026-10-04",
-    "deadline": "2026-10-06",
-    "tags": [
-      "네이버",
-      "Product Design"
-    ],
-    "jdSummary": "Product Design 직군 채용공고입니다.",
-    "jdFull": [
-      "자세한 업무 내용과 자격요건은 원본 공고에서 확인해주세요."
-    ],
-    "originalUrl": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005468&lang=ko",
     "aiAnalysis": {
       "coreSkills": [
         "원본 공고에서 상세 내용을 확인해주세요"
