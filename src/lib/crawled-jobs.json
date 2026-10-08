@@ -1,5 +1,47 @@
 [
   {
+    "id": "kakao-P-14557",
+    "title": "Product Designer (경력)",
+    "companyId": "kakao",
+    "platform": "기업 홈페이지",
+    "location": "경기 판교",
+    "career": "경력 5년 이상",
+    "employmentType": "정규직",
+    "postedAt": "2026-09-29",
+    "deadline": null,
+    "tags": [
+      "카카오",
+      "프로토타이핑",
+      "인터랙션"
+    ],
+    "jdSummary": "카카오톡 및 AI 기반의 사용자 경험을 설계하는 디자인 조직입니다.\n기존 서비스 UI/UX를 넘어 생성형 AI, Agent 멀티모달 등 새로운 인터랙션을 실제 서비스 경험으로 구체화하고 빠르게 검증하는 역할을 수행합",
+    "jdFull": [
+      "카카오톡 및 AI 기반의 사용자 경험을 설계하는 디자인 조직입니다.\n기존 서비스 UI/UX를 넘어 생성형 AI, Agent 멀티모달 등 새로운 인터랙션을 실제 서비스 경험으로 구체화하고 빠르게 검증하는 역할을 수행합니다.",
+      "자세한 자격요건과 우대사항은 원본 공고에서 확인해주세요."
+    ],
+    "originalUrl": "https://careers.kakao.com/jobs/P-14557",
+    "aiAnalysis": {
+      "coreSkills": [
+        "프로토타이핑",
+        "인터랙션"
+      ],
+      "requiredTools": [
+        "Figma"
+      ],
+      "preferred": [],
+      "keywords": [
+        {
+          "keyword": "프로토타이핑",
+          "count": 3
+        },
+        {
+          "keyword": "인터랙션",
+          "count": 2
+        }
+      ]
+    }
+  },
+  {
     "id": "kakao-P-14323",
     "title": "Interaction Designer (경력)",
     "companyId": "kakao",
@@ -140,7 +182,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-10-07",
+    "postedAt": "2026-10-08",
     "deadline": null,
     "tags": [
       "토스"
@@ -174,7 +216,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-10-07",
+    "postedAt": "2026-10-08",
     "deadline": null,
     "tags": [
       "토스플레이스",
@@ -220,7 +262,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-10-07",
+    "postedAt": "2026-10-08",
     "deadline": null,
     "tags": [
       "토스플레이스",
@@ -266,7 +308,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-10-07",
+    "postedAt": "2026-10-08",
     "deadline": null,
     "tags": [
       "토스플레이스",
@@ -301,7 +343,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-10-07",
+    "postedAt": "2026-10-08",
     "deadline": null,
     "tags": [
       "토스플레이스",
@@ -336,7 +378,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-10-07",
+    "postedAt": "2026-10-08",
     "deadline": null,
     "tags": [
       "토스",
@@ -376,13 +418,13 @@
   },
   {
     "id": "toss-7854102003",
-    "title": "Visual Designer (Graphic Design Team)",
+    "title": "Visual Designer [Graphic Design Team]",
     "companyId": "toss",
     "platform": "기업 홈페이지",
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-10-07",
+    "postedAt": "2026-10-08",
     "deadline": null,
     "tags": [
       "토스증권",
@@ -417,7 +459,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-10-07",
+    "postedAt": "2026-10-08",
     "deadline": null,
     "tags": [
       "토스뱅크",
@@ -458,7 +500,7 @@
     "location": "서울",
     "career": "경력 3~5년",
     "employmentType": "정규직",
-    "postedAt": "2026-10-07",
+    "postedAt": "2026-10-08",
     "deadline": null,
     "tags": [
       "토스"
@@ -492,7 +534,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-10-07",
+    "postedAt": "2026-10-08",
     "deadline": null,
     "tags": [
       "토스",
@@ -527,7 +569,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-10-07",
+    "postedAt": "2026-10-08",
     "deadline": null,
     "tags": [
       "토스",
@@ -562,7 +604,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-10-07",
+    "postedAt": "2026-10-08",
     "deadline": null,
     "tags": [
       "토스뱅크"
@@ -596,7 +638,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-10-07",
+    "postedAt": "2026-10-08",
     "deadline": null,
     "tags": [
       "토스플레이스",
@@ -631,7 +673,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-10-07",
+    "postedAt": "2026-10-08",
     "deadline": null,
     "tags": [
       "토스"
