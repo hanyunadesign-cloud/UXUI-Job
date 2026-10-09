@@ -182,7 +182,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-10-08",
+    "postedAt": "2026-10-09",
     "deadline": null,
     "tags": [
       "토스"
@@ -216,7 +216,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-10-08",
+    "postedAt": "2026-10-09",
     "deadline": null,
     "tags": [
       "토스플레이스",
@@ -262,7 +262,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-10-08",
+    "postedAt": "2026-10-09",
     "deadline": null,
     "tags": [
       "토스플레이스",
@@ -308,7 +308,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-10-08",
+    "postedAt": "2026-10-09",
     "deadline": null,
     "tags": [
       "토스플레이스",
@@ -343,7 +343,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-10-08",
+    "postedAt": "2026-10-09",
     "deadline": null,
     "tags": [
       "토스플레이스",
@@ -378,7 +378,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-10-08",
+    "postedAt": "2026-10-09",
     "deadline": null,
     "tags": [
       "토스",
@@ -424,7 +424,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-10-08",
+    "postedAt": "2026-10-09",
     "deadline": null,
     "tags": [
       "토스증권",
@@ -459,7 +459,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-10-08",
+    "postedAt": "2026-10-09",
     "deadline": null,
     "tags": [
       "토스뱅크",
@@ -500,7 +500,7 @@
     "location": "서울",
     "career": "경력 3~5년",
     "employmentType": "정규직",
-    "postedAt": "2026-10-08",
+    "postedAt": "2026-10-09",
     "deadline": null,
     "tags": [
       "토스"
@@ -534,7 +534,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-10-08",
+    "postedAt": "2026-10-09",
     "deadline": null,
     "tags": [
       "토스",
@@ -569,7 +569,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-10-08",
+    "postedAt": "2026-10-09",
     "deadline": null,
     "tags": [
       "토스",
@@ -604,7 +604,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-10-08",
+    "postedAt": "2026-10-09",
     "deadline": null,
     "tags": [
       "토스뱅크"
@@ -638,7 +638,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-10-08",
+    "postedAt": "2026-10-09",
     "deadline": null,
     "tags": [
       "토스플레이스",
@@ -660,40 +660,6 @@
       "keywords": [
         {
           "keyword": "브랜딩",
-          "count": 1
-        }
-      ]
-    }
-  },
-  {
-    "id": "toss-8011312003",
-    "title": "Visual Design Partner",
-    "companyId": "toss",
-    "platform": "기업 홈페이지",
-    "location": "서울",
-    "career": "경력무관",
-    "employmentType": "계약직",
-    "postedAt": "2026-10-08",
-    "deadline": null,
-    "tags": [
-      "토스"
-    ],
-    "jdSummary": "합류하게 될 팀에 대해 알려드려요\n 토스쇼핑의 비주얼이 커머스 업계의 새로운 기준이 되도록 만들어요. 앱 안의 프로덕트부터 광고, 기획전, SNS 등 앱 밖의 다양한 접점까지, 어디에서 보더라도 토스쇼핑답다고 느낄 ",
-    "jdFull": [
-      "자세한 업무 내용과 자격요건은 원본 공고에서 확인해주세요."
-    ],
-    "originalUrl": "https://toss.im/career/job-detail?gh_jid=8011312003",
-    "aiAnalysis": {
-      "coreSkills": [
-        "원본 공고에서 상세 내용을 확인해주세요"
-      ],
-      "requiredTools": [
-        "Figma"
-      ],
-      "preferred": [],
-      "keywords": [
-        {
-          "keyword": "디자인",
           "count": 1
         }
       ]
