@@ -182,7 +182,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-10-13",
+    "postedAt": "2026-10-14",
     "deadline": null,
     "tags": [
       "토스"
@@ -216,7 +216,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-10-13",
+    "postedAt": "2026-10-14",
     "deadline": null,
     "tags": [
       "토스플레이스",
@@ -262,7 +262,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-10-13",
+    "postedAt": "2026-10-14",
     "deadline": null,
     "tags": [
       "토스플레이스",
@@ -308,7 +308,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-10-13",
+    "postedAt": "2026-10-14",
     "deadline": null,
     "tags": [
       "토스플레이스",
@@ -336,24 +336,24 @@
     }
   },
   {
-    "id": "toss-5801150003",
+    "id": "toss-6982277003",
     "title": "UX Researcher",
     "companyId": "toss",
     "platform": "기업 홈페이지",
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-10-13",
+    "postedAt": "2026-10-14",
     "deadline": null,
     "tags": [
-      "토스플레이스",
+      "토스증권",
       "리서치"
     ],
-    "jdSummary": "!referral1(https://static.toss.im/photos/2610placejd.png)\n\n\n\n\n 지금 대규모 채용에 합류하시면 이런 경험을 할 수 있어요\n  토스플레이스가 직접 운영하는 실험 매장에서",
+    "jdSummary": "토스증권 UX Researcher는 이렇게 일해요\n 토스증권의 UX Researcher 는 UX Research Team에 속해있어요.\n 토스증권 UX Researcher는 투자 경험의 본질을 탐구하며, 사용자와 함",
     "jdFull": [
       "자세한 업무 내용과 자격요건은 원본 공고에서 확인해주세요."
     ],
-    "originalUrl": "https://toss.im/career/job-detail?gh_jid=5801150003",
+    "originalUrl": "https://toss.im/career/job-detail?gh_jid=6982277003",
     "aiAnalysis": {
       "coreSkills": [
         "리서치"
@@ -365,7 +365,7 @@
       "keywords": [
         {
           "keyword": "리서치",
-          "count": 26
+          "count": 7
         }
       ]
     }
@@ -378,7 +378,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-10-13",
+    "postedAt": "2026-10-14",
     "deadline": null,
     "tags": [
       "토스",
@@ -424,7 +424,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-10-13",
+    "postedAt": "2026-10-14",
     "deadline": null,
     "tags": [
       "토스증권",
@@ -459,7 +459,7 @@
     "location": "서울",
     "career": "경력 3~5년",
     "employmentType": "정규직",
-    "postedAt": "2026-10-13",
+    "postedAt": "2026-10-14",
     "deadline": null,
     "tags": [
       "토스"
@@ -493,7 +493,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-10-13",
+    "postedAt": "2026-10-14",
     "deadline": null,
     "tags": [
       "토스",
@@ -528,7 +528,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-10-13",
+    "postedAt": "2026-10-14",
     "deadline": null,
     "tags": [
       "토스",
@@ -563,7 +563,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-10-13",
+    "postedAt": "2026-10-14",
     "deadline": null,
     "tags": [
       "토스뱅크"
@@ -597,7 +597,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-10-13",
+    "postedAt": "2026-10-14",
     "deadline": null,
     "tags": [
       "토스플레이스",
