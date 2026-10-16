@@ -110,7 +110,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-10-15",
+    "postedAt": "2026-10-16",
     "deadline": null,
     "tags": [
       "토스"
@@ -144,7 +144,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-10-15",
+    "postedAt": "2026-10-16",
     "deadline": null,
     "tags": [
       "토스플레이스",
@@ -194,7 +194,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-10-15",
+    "postedAt": "2026-10-16",
     "deadline": null,
     "tags": [
       "토스플레이스",
@@ -240,7 +240,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-10-15",
+    "postedAt": "2026-10-16",
     "deadline": null,
     "tags": [
       "토스플레이스",
@@ -275,7 +275,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-10-15",
+    "postedAt": "2026-10-16",
     "deadline": null,
     "tags": [
       "토스증권",
@@ -310,14 +310,14 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-10-15",
+    "postedAt": "2026-10-16",
     "deadline": null,
     "tags": [
       "토스",
       "프로토타이핑",
       "인터랙션"
     ],
-    "jdSummary": "Visual Designer를 소개해요\n  토스는 그동안 Graphic/Brand/Interaction/Platform Designer로 디자인 직군을 나누어 운영해 왔어요. 각 직군마다 잘하는 기술이 달랐기 때문이",
+    "jdSummary": "토스 Visual Designer는 이렇게 일해요\n 본인의 비주얼 강점을 발휘할 수 있는 프로젝트라면 브랜딩, 제품 디자인, 시스템 디자인 등 업무 범위의 제약 없이 일해요.\n 토스 앱 내 다양한 사용성 문제를 인터",
     "jdFull": [
       "자세한 업무 내용과 자격요건은 원본 공고에서 확인해주세요."
     ],
@@ -356,7 +356,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-10-15",
+    "postedAt": "2026-10-16",
     "deadline": null,
     "tags": [
       "토스증권",
@@ -391,7 +391,7 @@
     "location": "서울",
     "career": "경력 3~5년",
     "employmentType": "정규직",
-    "postedAt": "2026-10-15",
+    "postedAt": "2026-10-16",
     "deadline": null,
     "tags": [
       "토스"
@@ -425,7 +425,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-10-15",
+    "postedAt": "2026-10-16",
     "deadline": null,
     "tags": [
       "토스",
@@ -460,7 +460,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-10-15",
+    "postedAt": "2026-10-16",
     "deadline": null,
     "tags": [
       "토스",
@@ -488,40 +488,6 @@
     }
   },
   {
-    "id": "toss-7551680003",
-    "title": "Product Design Assistant",
-    "companyId": "toss",
-    "platform": "기업 홈페이지",
-    "location": "서울",
-    "career": "경력무관",
-    "employmentType": "계약직",
-    "postedAt": "2026-10-15",
-    "deadline": null,
-    "tags": [
-      "토스뱅크"
-    ],
-    "jdSummary": "합류하면 함께할 업무예요\n 은행을 가장 효율적으로 운영할 수 있도록 만드는 제품의 디자인을 서포트해요.\n 제품 디자이너와 협업하며 커리어적으로 성장할 수 있어요.\n\n 이런 분과 함께하고 싶어요\n 사용자 중심의 UX를",
-    "jdFull": [
-      "자세한 업무 내용과 자격요건은 원본 공고에서 확인해주세요."
-    ],
-    "originalUrl": "https://toss.im/career/job-detail?gh_jid=7551680003",
-    "aiAnalysis": {
-      "coreSkills": [
-        "원본 공고에서 상세 내용을 확인해주세요"
-      ],
-      "requiredTools": [
-        "Figma"
-      ],
-      "preferred": [],
-      "keywords": [
-        {
-          "keyword": "디자인",
-          "count": 1
-        }
-      ]
-    }
-  },
-  {
     "id": "toss-6613948003",
     "title": "Product Design Assistant",
     "companyId": "toss",
@@ -529,7 +495,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-10-15",
+    "postedAt": "2026-10-16",
     "deadline": null,
     "tags": [
       "토스페이먼츠"
@@ -556,6 +522,40 @@
     }
   },
   {
+    "id": "toss-7551680003",
+    "title": "Product Design Assistant",
+    "companyId": "toss",
+    "platform": "기업 홈페이지",
+    "location": "서울",
+    "career": "경력무관",
+    "employmentType": "계약직",
+    "postedAt": "2026-10-16",
+    "deadline": null,
+    "tags": [
+      "토스뱅크"
+    ],
+    "jdSummary": "합류하면 함께할 업무예요\n 은행을 가장 효율적으로 운영할 수 있도록 만드는 제품의 디자인을 서포트해요.\n 제품 디자이너와 협업하며 커리어적으로 성장할 수 있어요.\n\n 이런 분과 함께하고 싶어요\n 사용자 중심의 UX를",
+    "jdFull": [
+      "자세한 업무 내용과 자격요건은 원본 공고에서 확인해주세요."
+    ],
+    "originalUrl": "https://toss.im/career/job-detail?gh_jid=7551680003",
+    "aiAnalysis": {
+      "coreSkills": [
+        "원본 공고에서 상세 내용을 확인해주세요"
+      ],
+      "requiredTools": [
+        "Figma"
+      ],
+      "preferred": [],
+      "keywords": [
+        {
+          "keyword": "디자인",
+          "count": 1
+        }
+      ]
+    }
+  },
+  {
     "id": "toss-7810507003",
     "title": "Visual Designer (Brand Team)",
     "companyId": "toss",
@@ -563,7 +563,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-10-15",
+    "postedAt": "2026-10-16",
     "deadline": null,
     "tags": [
       "토스플레이스",
