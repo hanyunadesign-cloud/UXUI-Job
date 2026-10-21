@@ -152,7 +152,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-10-20",
+    "postedAt": "2026-10-21",
     "deadline": null,
     "tags": [
       "토스"
@@ -186,7 +186,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-10-20",
+    "postedAt": "2026-10-21",
     "deadline": null,
     "tags": [
       "토스플레이스",
@@ -236,7 +236,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-10-20",
+    "postedAt": "2026-10-21",
     "deadline": null,
     "tags": [
       "토스플레이스",
@@ -282,7 +282,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-10-20",
+    "postedAt": "2026-10-21",
     "deadline": null,
     "tags": [
       "토스증권",
@@ -310,14 +310,49 @@
     }
   },
   {
-    "id": "toss-7792204003",
-    "title": "Visual Designer",
+    "id": "toss-7854102003",
+    "title": "Visual Designer [Graphic Design Team]",
     "companyId": "toss",
     "platform": "기업 홈페이지",
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-10-20",
+    "postedAt": "2026-10-21",
+    "deadline": null,
+    "tags": [
+      "토스증권",
+      "인터랙션"
+    ],
+    "jdSummary": "합류하게 될 팀에 대해 알려드려요\n 토스증권 Visual Designer는 증권 UX & Brand Division에 속할 예정이에요.\n 토스는 그동안 Graphic/Brand/Interaction/Platform ",
+    "jdFull": [
+      "자세한 업무 내용과 자격요건은 원본 공고에서 확인해주세요."
+    ],
+    "originalUrl": "https://toss.im/career/job-detail?gh_jid=7854102003",
+    "aiAnalysis": {
+      "coreSkills": [
+        "인터랙션"
+      ],
+      "requiredTools": [
+        "Figma"
+      ],
+      "preferred": [],
+      "keywords": [
+        {
+          "keyword": "인터랙션",
+          "count": 2
+        }
+      ]
+    }
+  },
+  {
+    "id": "toss-7792204003",
+    "title": "Visual Designer(Product)",
+    "companyId": "toss",
+    "platform": "기업 홈페이지",
+    "location": "서울",
+    "career": "경력무관",
+    "employmentType": "정규직",
+    "postedAt": "2026-10-21",
     "deadline": null,
     "tags": [
       "토스",
@@ -356,41 +391,6 @@
     }
   },
   {
-    "id": "toss-7854102003",
-    "title": "Visual Designer [Graphic Design Team]",
-    "companyId": "toss",
-    "platform": "기업 홈페이지",
-    "location": "서울",
-    "career": "경력무관",
-    "employmentType": "정규직",
-    "postedAt": "2026-10-20",
-    "deadline": null,
-    "tags": [
-      "토스증권",
-      "인터랙션"
-    ],
-    "jdSummary": "합류하게 될 팀에 대해 알려드려요\n 토스증권 Visual Designer는 증권 UX & Brand Division에 속할 예정이에요.\n 토스는 그동안 Graphic/Brand/Interaction/Platform ",
-    "jdFull": [
-      "자세한 업무 내용과 자격요건은 원본 공고에서 확인해주세요."
-    ],
-    "originalUrl": "https://toss.im/career/job-detail?gh_jid=7854102003",
-    "aiAnalysis": {
-      "coreSkills": [
-        "인터랙션"
-      ],
-      "requiredTools": [
-        "Figma"
-      ],
-      "preferred": [],
-      "keywords": [
-        {
-          "keyword": "인터랙션",
-          "count": 2
-        }
-      ]
-    }
-  },
-  {
     "id": "toss-7816833003",
     "title": "Design Staff (Product Designer)",
     "companyId": "toss",
@@ -398,7 +398,7 @@
     "location": "서울",
     "career": "경력 3~5년",
     "employmentType": "정규직",
-    "postedAt": "2026-10-20",
+    "postedAt": "2026-10-21",
     "deadline": null,
     "tags": [
       "토스"
@@ -432,7 +432,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-10-20",
+    "postedAt": "2026-10-21",
     "deadline": null,
     "tags": [
       "토스",
@@ -467,7 +467,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-10-20",
+    "postedAt": "2026-10-21",
     "deadline": null,
     "tags": [
       "토스",
@@ -502,7 +502,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-10-20",
+    "postedAt": "2026-10-21",
     "deadline": null,
     "tags": [
       "토스뱅크"
@@ -536,7 +536,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-10-20",
+    "postedAt": "2026-10-21",
     "deadline": null,
     "tags": [
       "토스페이먼츠"
@@ -570,7 +570,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-10-20",
+    "postedAt": "2026-10-21",
     "deadline": null,
     "tags": [
       "토스뱅크",
@@ -620,7 +620,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-10-20",
+    "postedAt": "2026-10-21",
     "deadline": null,
     "tags": [
       "토스플레이스",
@@ -655,7 +655,7 @@
     "location": "경기 성남시 분당구",
     "career": "신입",
     "employmentType": "인턴",
-    "postedAt": "2026-10-20",
+    "postedAt": "2026-10-21",
     "deadline": "2026-10-27",
     "tags": [
       "네이버",
@@ -666,6 +666,41 @@
       "자세한 업무 내용과 자격요건은 원본 공고에서 확인해주세요."
     ],
     "originalUrl": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005565&lang=ko",
+    "aiAnalysis": {
+      "coreSkills": [
+        "원본 공고에서 상세 내용을 확인해주세요"
+      ],
+      "requiredTools": [
+        "Figma"
+      ],
+      "preferred": [],
+      "keywords": [
+        {
+          "keyword": "디자인",
+          "count": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "naver-30005583",
+    "title": "[NAVER] AI 콘텐츠 제작 및 UX 기획 (계약)",
+    "companyId": "naver",
+    "platform": "기업 홈페이지",
+    "location": "경기 성남시 분당구",
+    "career": "경력무관",
+    "employmentType": "계약직",
+    "postedAt": "2026-10-21",
+    "deadline": "2026-10-27",
+    "tags": [
+      "네이버",
+      "Visual Comm. & Brand Design"
+    ],
+    "jdSummary": "Visual Comm. & Brand Design 직군 채용공고입니다.",
+    "jdFull": [
+      "자세한 업무 내용과 자격요건은 원본 공고에서 확인해주세요."
+    ],
+    "originalUrl": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005583&lang=ko",
     "aiAnalysis": {
       "coreSkills": [
         "원본 공고에서 상세 내용을 확인해주세요"
