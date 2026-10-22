@@ -152,7 +152,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-10-21",
+    "postedAt": "2026-10-22",
     "deadline": null,
     "tags": [
       "토스"
@@ -186,7 +186,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-10-21",
+    "postedAt": "2026-10-22",
     "deadline": null,
     "tags": [
       "토스플레이스",
@@ -229,52 +229,6 @@
     }
   },
   {
-    "id": "toss-5589072003",
-    "title": "Design Assistant",
-    "companyId": "toss",
-    "platform": "기업 홈페이지",
-    "location": "서울",
-    "career": "경력무관",
-    "employmentType": "계약직",
-    "postedAt": "2026-10-21",
-    "deadline": null,
-    "tags": [
-      "토스플레이스",
-      "Figma",
-      "Photoshop"
-    ],
-    "jdSummary": "!referral1(https://static.toss.im/photos/2610placejd.png)\n\n\n\n 지금 대규모 채용에 합류하시면 이런 경험을 할 수 있어요\n  Visual Designer와 긴밀하게 협업",
-    "jdFull": [
-      "자세한 업무 내용과 자격요건은 원본 공고에서 확인해주세요."
-    ],
-    "originalUrl": "https://toss.im/career/job-detail?gh_jid=5589072003",
-    "aiAnalysis": {
-      "coreSkills": [
-        "원본 공고에서 상세 내용을 확인해주세요"
-      ],
-      "requiredTools": [
-        "Figma",
-        "Photoshop",
-        "Illustrator"
-      ],
-      "preferred": [],
-      "keywords": [
-        {
-          "keyword": "Figma",
-          "count": 1
-        },
-        {
-          "keyword": "Photoshop",
-          "count": 1
-        },
-        {
-          "keyword": "Illustrator",
-          "count": 1
-        }
-      ]
-    }
-  },
-  {
     "id": "toss-6982277003",
     "title": "UX Researcher",
     "companyId": "toss",
@@ -282,7 +236,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-10-21",
+    "postedAt": "2026-10-22",
     "deadline": null,
     "tags": [
       "토스증권",
@@ -317,7 +271,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-10-21",
+    "postedAt": "2026-10-22",
     "deadline": null,
     "tags": [
       "토스증권",
@@ -346,13 +300,13 @@
   },
   {
     "id": "toss-7792204003",
-    "title": "Visual Designer(Product)",
+    "title": "Visual Designer [Product]",
     "companyId": "toss",
     "platform": "기업 홈페이지",
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-10-21",
+    "postedAt": "2026-10-22",
     "deadline": null,
     "tags": [
       "토스",
@@ -398,7 +352,7 @@
     "location": "서울",
     "career": "경력 3~5년",
     "employmentType": "정규직",
-    "postedAt": "2026-10-21",
+    "postedAt": "2026-10-22",
     "deadline": null,
     "tags": [
       "토스"
@@ -432,7 +386,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-10-21",
+    "postedAt": "2026-10-22",
     "deadline": null,
     "tags": [
       "토스",
@@ -467,7 +421,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-10-21",
+    "postedAt": "2026-10-22",
     "deadline": null,
     "tags": [
       "토스",
@@ -495,40 +449,6 @@
     }
   },
   {
-    "id": "toss-7551680003",
-    "title": "Product Design Assistant",
-    "companyId": "toss",
-    "platform": "기업 홈페이지",
-    "location": "서울",
-    "career": "경력무관",
-    "employmentType": "계약직",
-    "postedAt": "2026-10-21",
-    "deadline": null,
-    "tags": [
-      "토스뱅크"
-    ],
-    "jdSummary": "합류하면 함께할 업무예요\n 은행을 가장 효율적으로 운영할 수 있도록 만드는 제품의 디자인을 서포트해요.\n 제품 디자이너와 협업하며 커리어적으로 성장할 수 있어요.\n\n 이런 분과 함께하고 싶어요\n 사용자 중심의 UX를",
-    "jdFull": [
-      "자세한 업무 내용과 자격요건은 원본 공고에서 확인해주세요."
-    ],
-    "originalUrl": "https://toss.im/career/job-detail?gh_jid=7551680003",
-    "aiAnalysis": {
-      "coreSkills": [
-        "원본 공고에서 상세 내용을 확인해주세요"
-      ],
-      "requiredTools": [
-        "Figma"
-      ],
-      "preferred": [],
-      "keywords": [
-        {
-          "keyword": "디자인",
-          "count": 1
-        }
-      ]
-    }
-  },
-  {
     "id": "toss-6613948003",
     "title": "Product Design Assistant",
     "companyId": "toss",
@@ -536,7 +456,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-10-21",
+    "postedAt": "2026-10-22",
     "deadline": null,
     "tags": [
       "토스페이먼츠"
@@ -563,6 +483,40 @@
     }
   },
   {
+    "id": "toss-7551680003",
+    "title": "Product Design Assistant",
+    "companyId": "toss",
+    "platform": "기업 홈페이지",
+    "location": "서울",
+    "career": "경력무관",
+    "employmentType": "계약직",
+    "postedAt": "2026-10-22",
+    "deadline": null,
+    "tags": [
+      "토스뱅크"
+    ],
+    "jdSummary": "합류하면 함께할 업무예요\n 은행을 가장 효율적으로 운영할 수 있도록 만드는 제품의 디자인을 서포트해요.\n 제품 디자이너와 협업하며 커리어적으로 성장할 수 있어요.\n\n 이런 분과 함께하고 싶어요\n 사용자 중심의 UX를",
+    "jdFull": [
+      "자세한 업무 내용과 자격요건은 원본 공고에서 확인해주세요."
+    ],
+    "originalUrl": "https://toss.im/career/job-detail?gh_jid=7551680003",
+    "aiAnalysis": {
+      "coreSkills": [
+        "원본 공고에서 상세 내용을 확인해주세요"
+      ],
+      "requiredTools": [
+        "Figma"
+      ],
+      "preferred": [],
+      "keywords": [
+        {
+          "keyword": "디자인",
+          "count": 1
+        }
+      ]
+    }
+  },
+  {
     "id": "toss-5748739003",
     "title": "Visual Design Assistant (Brand)",
     "companyId": "toss",
@@ -570,7 +524,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-10-21",
+    "postedAt": "2026-10-22",
     "deadline": null,
     "tags": [
       "토스뱅크",
@@ -620,7 +574,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-10-21",
+    "postedAt": "2026-10-22",
     "deadline": null,
     "tags": [
       "토스플레이스",
@@ -655,7 +609,7 @@
     "location": "경기 성남시 분당구",
     "career": "신입",
     "employmentType": "인턴",
-    "postedAt": "2026-10-21",
+    "postedAt": "2026-10-22",
     "deadline": "2026-10-27",
     "tags": [
       "네이버",
@@ -690,7 +644,7 @@
     "location": "경기 성남시 분당구",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-10-21",
+    "postedAt": "2026-10-22",
     "deadline": "2026-10-27",
     "tags": [
       "네이버",
