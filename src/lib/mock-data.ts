@@ -1,5 +1,6 @@
 import { Company, JobPosting } from "./types";
 import crawledJobsData from "./crawled-jobs.json";
+import { addedCompanies, addedJobPostings } from "./added-jobs";
 
 export const companies: Company[] = [
   {
@@ -145,6 +146,7 @@ export const companies: Company[] = [
       "쿠팡의 간편결제·금융 서비스를 운영하는 핀테크 조직. 신사업 영역에서 프로덕트 디자인을 확장하고 있습니다.",
     cultureTags: ["대규모 서비스", "데이터 기반", "핀테크"],
   },
+  ...addedCompanies,
 ];
 
 export const jobPostings: JobPosting[] = [
@@ -567,7 +569,7 @@ export const notificationLog: NotificationLogItem[] = [
 
 export const crawledJobPostings: JobPosting[] = crawledJobsData as JobPosting[];
 
-export const allJobPostings: JobPosting[] = [...jobPostings, ...crawledJobPostings];
+export const allJobPostings: JobPosting[] = [...jobPostings, ...addedJobPostings, ...crawledJobPostings];
 
 export function getCompanyById(id: string): Company | undefined {
   return companies.find((c) => c.id === id);
