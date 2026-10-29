@@ -152,7 +152,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-10-28",
+    "postedAt": "2026-10-29",
     "deadline": null,
     "tags": [
       "토스"
@@ -186,7 +186,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-10-28",
+    "postedAt": "2026-10-29",
     "deadline": null,
     "tags": [
       "토스플레이스",
@@ -236,7 +236,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-10-28",
+    "postedAt": "2026-10-29",
     "deadline": null,
     "tags": [
       "토스증권",
@@ -271,7 +271,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-10-28",
+    "postedAt": "2026-10-29",
     "deadline": null,
     "tags": [
       "토스증권",
@@ -306,23 +306,23 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-10-28",
+    "postedAt": "2026-10-29",
     "deadline": null,
     "tags": [
       "토스",
-      "프로토타이핑",
-      "인터랙션"
+      "디자인 시스템",
+      "프로토타이핑"
     ],
-    "jdSummary": "토스 Visual Designer는 이렇게 일해요\n 본인의 비주얼 강점을 발휘할 수 있는 프로젝트라면 브랜딩, 제품 디자인, 시스템 디자인 등 업무 범위의 제약 없이 일해요.\n 토스 앱 내 다양한 사용성 문제를 인터",
+    "jdSummary": "토스 Visual Designer (Product)는 이렇게 일해요\n 토스 Visual Designer (Product)는 토스 제품에서 무엇이 좋은 비주얼인지 판단하고, 그 기준이 사용자에게 닿는 순간까지 책임져요",
     "jdFull": [
       "자세한 업무 내용과 자격요건은 원본 공고에서 확인해주세요."
     ],
     "originalUrl": "https://toss.im/career/job-detail?gh_jid=7792204003",
     "aiAnalysis": {
       "coreSkills": [
+        "디자인 시스템",
         "프로토타이핑",
-        "인터랙션",
-        "브랜딩"
+        "인터랙션"
       ],
       "requiredTools": [
         "Figma"
@@ -330,15 +330,15 @@
       "preferred": [],
       "keywords": [
         {
+          "keyword": "디자인 시스템",
+          "count": 1
+        },
+        {
           "keyword": "프로토타이핑",
-          "count": 2
+          "count": 1
         },
         {
           "keyword": "인터랙션",
-          "count": 2
-        },
-        {
-          "keyword": "브랜딩",
           "count": 1
         }
       ]
@@ -352,7 +352,7 @@
     "location": "서울",
     "career": "경력 3~5년",
     "employmentType": "정규직",
-    "postedAt": "2026-10-28",
+    "postedAt": "2026-10-29",
     "deadline": null,
     "tags": [
       "토스"
@@ -386,7 +386,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-10-28",
+    "postedAt": "2026-10-29",
     "deadline": null,
     "tags": [
       "토스",
@@ -421,7 +421,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-10-28",
+    "postedAt": "2026-10-29",
     "deadline": null,
     "tags": [
       "토스",
@@ -456,7 +456,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-10-28",
+    "postedAt": "2026-10-29",
     "deadline": null,
     "tags": [
       "토스뱅크"
@@ -490,7 +490,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-10-28",
+    "postedAt": "2026-10-29",
     "deadline": null,
     "tags": [
       "토스페이먼츠"
@@ -524,7 +524,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-10-28",
+    "postedAt": "2026-10-29",
     "deadline": null,
     "tags": [
       "토스뱅크",
@@ -574,7 +574,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-10-28",
+    "postedAt": "2026-10-29",
     "deadline": null,
     "tags": [
       "토스플레이스",
