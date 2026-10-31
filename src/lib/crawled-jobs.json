@@ -187,7 +187,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-10-30",
+    "postedAt": "2026-10-31",
     "deadline": null,
     "tags": [
       "토스"
@@ -221,7 +221,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-10-30",
+    "postedAt": "2026-10-31",
     "deadline": null,
     "tags": [
       "토스플레이스",
@@ -271,7 +271,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-10-30",
+    "postedAt": "2026-10-31",
     "deadline": null,
     "tags": [
       "토스증권",
@@ -306,7 +306,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-10-30",
+    "postedAt": "2026-10-31",
     "deadline": null,
     "tags": [
       "토스증권",
@@ -341,7 +341,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-10-30",
+    "postedAt": "2026-10-31",
     "deadline": null,
     "tags": [
       "토스",
@@ -387,7 +387,7 @@
     "location": "서울",
     "career": "경력 3~5년",
     "employmentType": "정규직",
-    "postedAt": "2026-10-30",
+    "postedAt": "2026-10-31",
     "deadline": null,
     "tags": [
       "토스"
@@ -421,7 +421,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-10-30",
+    "postedAt": "2026-10-31",
     "deadline": null,
     "tags": [
       "토스",
@@ -456,7 +456,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-10-30",
+    "postedAt": "2026-10-31",
     "deadline": null,
     "tags": [
       "토스",
@@ -491,7 +491,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-10-30",
+    "postedAt": "2026-10-31",
     "deadline": null,
     "tags": [
       "토스페이먼츠"
@@ -518,34 +518,40 @@
     }
   },
   {
-    "id": "toss-7551680003",
-    "title": "Product Design Assistant",
+    "id": "toss-8040939003",
+    "title": "UX Writer (Japan)",
     "companyId": "toss",
     "platform": "기업 홈페이지",
     "location": "서울",
     "career": "경력무관",
-    "employmentType": "계약직",
-    "postedAt": "2026-10-30",
+    "employmentType": "정규직",
+    "postedAt": "2026-10-31",
     "deadline": null,
     "tags": [
-      "토스뱅크"
+      "토스증권",
+      "Principle",
+      "리서치"
     ],
-    "jdSummary": "합류하면 함께할 업무예요\n 은행을 가장 효율적으로 운영할 수 있도록 만드는 제품의 디자인을 서포트해요.\n 제품 디자이너와 협업하며 커리어적으로 성장할 수 있어요.\n\n 이런 분과 함께하고 싶어요\n 사용자 중심의 UX를",
+    "jdSummary": "합류하게 될 팀에 대해 알려드려요\n UX Writer (Japan) 는 일본 서비스의 첫 문장부터 함께 만들어갈 분이에요\n 토스의 Writing Principles를 바탕으로, 일본 사용자에게 맞는 토스증권만의 보이",
     "jdFull": [
       "자세한 업무 내용과 자격요건은 원본 공고에서 확인해주세요."
     ],
-    "originalUrl": "https://toss.im/career/job-detail?gh_jid=7551680003",
+    "originalUrl": "https://toss.im/career/job-detail?gh_jid=8040939003",
     "aiAnalysis": {
       "coreSkills": [
-        "원본 공고에서 상세 내용을 확인해주세요"
+        "리서치"
       ],
       "requiredTools": [
-        "Figma"
+        "Principle"
       ],
       "preferred": [],
       "keywords": [
         {
-          "keyword": "디자인",
+          "keyword": "Principle",
+          "count": 2
+        },
+        {
+          "keyword": "리서치",
           "count": 1
         }
       ]
@@ -559,7 +565,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-10-30",
+    "postedAt": "2026-10-31",
     "deadline": null,
     "tags": [
       "토스뱅크",
@@ -609,7 +615,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-10-30",
+    "postedAt": "2026-10-31",
     "deadline": null,
     "tags": [
       "토스플레이스",
@@ -632,6 +638,41 @@
         {
           "keyword": "브랜딩",
           "count": 2
+        }
+      ]
+    }
+  },
+  {
+    "id": "naver-30005628",
+    "title": "[NAVER] 소셜 미디어 영상 콘텐츠 제작 담당자 (계약)",
+    "companyId": "naver",
+    "platform": "기업 홈페이지",
+    "location": "경기 성남시 분당구",
+    "career": "경력무관",
+    "employmentType": "계약직",
+    "postedAt": "2026-10-31",
+    "deadline": "2026-11-10",
+    "tags": [
+      "네이버",
+      "Visual Comm. & Brand Design"
+    ],
+    "jdSummary": "Visual Comm. & Brand Design 직군 채용공고입니다.",
+    "jdFull": [
+      "자세한 업무 내용과 자격요건은 원본 공고에서 확인해주세요."
+    ],
+    "originalUrl": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005628&lang=ko",
+    "aiAnalysis": {
+      "coreSkills": [
+        "원본 공고에서 상세 내용을 확인해주세요"
+      ],
+      "requiredTools": [
+        "Figma"
+      ],
+      "preferred": [],
+      "keywords": [
+        {
+          "keyword": "디자인",
+          "count": 1
         }
       ]
     }
