@@ -187,7 +187,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-11-02",
+    "postedAt": "2026-11-03",
     "deadline": null,
     "tags": [
       "토스"
@@ -214,41 +214,6 @@
     }
   },
   {
-    "id": "toss-6982277003",
-    "title": "UX Researcher",
-    "companyId": "toss",
-    "platform": "기업 홈페이지",
-    "location": "서울",
-    "career": "경력무관",
-    "employmentType": "정규직",
-    "postedAt": "2026-11-02",
-    "deadline": null,
-    "tags": [
-      "토스증권",
-      "리서치"
-    ],
-    "jdSummary": "토스증권 UX Researcher는 이렇게 일해요\n 토스증권의 UX Researcher 는 UX Research Team에 속해있어요.\n 토스증권 UX Researcher는 투자 경험의 본질을 탐구하며, 사용자와 함",
-    "jdFull": [
-      "자세한 업무 내용과 자격요건은 원본 공고에서 확인해주세요."
-    ],
-    "originalUrl": "https://toss.im/career/job-detail?gh_jid=6982277003",
-    "aiAnalysis": {
-      "coreSkills": [
-        "리서치"
-      ],
-      "requiredTools": [
-        "Figma"
-      ],
-      "preferred": [],
-      "keywords": [
-        {
-          "keyword": "리서치",
-          "count": 7
-        }
-      ]
-    }
-  },
-  {
     "id": "toss-8040939003",
     "title": "UX Writer (Japan)",
     "companyId": "toss",
@@ -256,7 +221,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-11-02",
+    "postedAt": "2026-11-03",
     "deadline": null,
     "tags": [
       "토스증권",
@@ -289,6 +254,41 @@
     }
   },
   {
+    "id": "toss-5865632003",
+    "title": "UX 리서처",
+    "companyId": "toss",
+    "platform": "기업 홈페이지",
+    "location": "서울",
+    "career": "경력무관",
+    "employmentType": "정규직",
+    "postedAt": "2026-11-03",
+    "deadline": null,
+    "tags": [
+      "토스뱅크",
+      "리서치"
+    ],
+    "jdSummary": "📢 사용자가 모든 결정의 중심이 되도록\n 토스뱅크의 리서처는 사용자가 처한 금융 문제를 누구보다 먼저 발굴하고, 실제 상품으로 만들어지게 함으로써 사용자의 삶을 바꿔요.\n 1,600만 사용자가 더 건강한 금융생활을",
+    "jdFull": [
+      "자세한 업무 내용과 자격요건은 원본 공고에서 확인해주세요."
+    ],
+    "originalUrl": "https://toss.im/career/job-detail?gh_jid=5865632003",
+    "aiAnalysis": {
+      "coreSkills": [
+        "리서치"
+      ],
+      "requiredTools": [
+        "Figma"
+      ],
+      "preferred": [],
+      "keywords": [
+        {
+          "keyword": "리서치",
+          "count": 23
+        }
+      ]
+    }
+  },
+  {
     "id": "toss-8006388003",
     "title": "글로벌 UX 리서치 프로그램 매니저",
     "companyId": "toss",
@@ -296,7 +296,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-11-02",
+    "postedAt": "2026-11-03",
     "deadline": null,
     "tags": [
       "토스",
@@ -331,7 +331,7 @@
     "location": "서울",
     "career": "경력 3~5년",
     "employmentType": "정규직",
-    "postedAt": "2026-11-02",
+    "postedAt": "2026-11-03",
     "deadline": null,
     "tags": [
       "토스"
@@ -365,7 +365,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-11-02",
+    "postedAt": "2026-11-03",
     "deadline": null,
     "tags": [
       "토스플레이스",
@@ -415,7 +415,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-11-02",
+    "postedAt": "2026-11-03",
     "deadline": null,
     "tags": [
       "토스플레이스",
@@ -450,7 +450,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-11-02",
+    "postedAt": "2026-11-03",
     "deadline": null,
     "tags": [
       "토스증권",
@@ -485,7 +485,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-11-02",
+    "postedAt": "2026-11-03",
     "deadline": null,
     "tags": [
       "토스",
@@ -531,7 +531,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-11-02",
+    "postedAt": "2026-11-03",
     "deadline": null,
     "tags": [
       "토스뱅크",
@@ -586,7 +586,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-11-02",
+    "postedAt": "2026-11-03",
     "deadline": null,
     "tags": [
       "토스페이먼츠"
@@ -620,7 +620,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-11-02",
+    "postedAt": "2026-11-03",
     "deadline": null,
     "tags": [
       "토스",
@@ -648,6 +648,98 @@
     }
   },
   {
+    "id": "toss-4346520003",
+    "title": "프로덕트 디자이너 (Product Designer)",
+    "companyId": "toss",
+    "platform": "기업 홈페이지",
+    "location": "서울",
+    "career": "경력무관",
+    "employmentType": "정규직",
+    "postedAt": "2026-11-03",
+    "deadline": null,
+    "tags": [
+      "토스뱅크",
+      "인터랙션",
+      "리서치"
+    ],
+    "jdSummary": "📢 어려운 금융을 누구나 쉽게\n토스뱅크의 디자이너는 당연하고 익숙한 은행 서비스를 계속 다른 각도로 보면서, 금융 서비스를 완전히 재설계해서 사용자에게 최고의 가치를 제공해요.\n1,600만 사용자가 쓰는 금융 서비",
+    "jdFull": [
+      "자세한 업무 내용과 자격요건은 원본 공고에서 확인해주세요."
+    ],
+    "originalUrl": "https://toss.im/career/job-detail?gh_jid=4346520003",
+    "aiAnalysis": {
+      "coreSkills": [
+        "인터랙션",
+        "리서치",
+        "UX 라이팅",
+        "그로스"
+      ],
+      "requiredTools": [
+        "Figma"
+      ],
+      "preferred": [],
+      "keywords": [
+        {
+          "keyword": "인터랙션",
+          "count": 1
+        },
+        {
+          "keyword": "리서치",
+          "count": 1
+        },
+        {
+          "keyword": "UX 라이팅",
+          "count": 1
+        },
+        {
+          "keyword": "그로스",
+          "count": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "toss-8006738003",
+    "title": "Visual Designer (Brand Comms Team)",
+    "companyId": "toss",
+    "platform": "기업 홈페이지",
+    "location": "서울",
+    "career": "경력무관",
+    "employmentType": "정규직",
+    "postedAt": "2026-11-03",
+    "deadline": null,
+    "tags": [
+      "토스뱅크",
+      "브랜딩",
+      "인터랙션"
+    ],
+    "jdSummary": "📢 은행을 정의하는 은행\n토스뱅크의 디자이너는 단순히 은행을 홍보하는 것이 아니라, 진심으로 사용자의 삶이 더 나아지도록 가장 단순하고 가치 있는 금융 브랜드를 만들어요.\n1,600만 토스뱅크 사용자에게 사랑받는 ",
+    "jdFull": [
+      "자세한 업무 내용과 자격요건은 원본 공고에서 확인해주세요."
+    ],
+    "originalUrl": "https://toss.im/career/job-detail?gh_jid=8006738003",
+    "aiAnalysis": {
+      "coreSkills": [
+        "브랜딩",
+        "인터랙션"
+      ],
+      "requiredTools": [
+        "Figma"
+      ],
+      "preferred": [],
+      "keywords": [
+        {
+          "keyword": "브랜딩",
+          "count": 2
+        },
+        {
+          "keyword": "인터랙션",
+          "count": 1
+        }
+      ]
+    }
+  },
+  {
     "id": "naver-30005628",
     "title": "[NAVER] 소셜 미디어 영상 콘텐츠 제작 담당자 (계약)",
     "companyId": "naver",
@@ -655,7 +747,7 @@
     "location": "경기 성남시 분당구",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-11-02",
+    "postedAt": "2026-11-03",
     "deadline": "2026-11-10",
     "tags": [
       "네이버",
@@ -666,6 +758,41 @@
       "자세한 업무 내용과 자격요건은 원본 공고에서 확인해주세요."
     ],
     "originalUrl": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005628&lang=ko",
+    "aiAnalysis": {
+      "coreSkills": [
+        "원본 공고에서 상세 내용을 확인해주세요"
+      ],
+      "requiredTools": [
+        "Figma"
+      ],
+      "preferred": [],
+      "keywords": [
+        {
+          "keyword": "디자인",
+          "count": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "naver-30005654",
+    "title": "[네이버웹툰] Brand Media 콘텐츠 PD (계약직)",
+    "companyId": "naver",
+    "platform": "기업 홈페이지",
+    "location": "경기 성남시 분당구",
+    "career": "경력무관",
+    "employmentType": "계약직",
+    "postedAt": "2026-11-03",
+    "deadline": "2026-11-22",
+    "tags": [
+      "네이버",
+      "Visual Comm. & Brand Design"
+    ],
+    "jdSummary": "Visual Comm. & Brand Design 직군 채용공고입니다.",
+    "jdFull": [
+      "자세한 업무 내용과 자격요건은 원본 공고에서 확인해주세요."
+    ],
+    "originalUrl": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005654&lang=ko",
     "aiAnalysis": {
       "coreSkills": [
         "원본 공고에서 상세 내용을 확인해주세요"
