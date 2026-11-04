@@ -42,67 +42,6 @@
     }
   },
   {
-    "id": "kakao-P-14323",
-    "title": "Interaction Designer (경력)",
-    "companyId": "kakao",
-    "platform": "기업 홈페이지",
-    "location": "경기 판교",
-    "career": "경력 3~5년",
-    "employmentType": "정규직",
-    "postedAt": "2025-12-04",
-    "deadline": null,
-    "tags": [
-      "카카오",
-      "인터랙션",
-      "디자인 시스템"
-    ],
-    "jdSummary": "디자인파운데이션 조직은 효율적이고 일관된 디자인 시스템의 고도화를 통해, 업계 표준을 넘어서는 사용자 경험과 혁신적인 제품 완성도를 실현합니다. 또한 카카오톡을 비롯한 주요 서비스의 품질 향상을 위해 공통 디자인 시",
-    "jdFull": [
-      "디자인파운데이션 조직은 효율적이고 일관된 디자인 시스템의 고도화를 통해, 업계 표준을 넘어서는 사용자 경험과 혁신적인 제품 완성도를 실현합니다. 또한 카카오톡을 비롯한 주요 서비스의 품질 향상을 위해 공통 디자인 시스템을 정의하고, 사용성을 지속적으로 개선함으로써 더 쉽고 즐겁게 서비스를 이용할 수 있도록 지원합니다.",
-      "자세한 자격요건과 우대사항은 원본 공고에서 확인해주세요."
-    ],
-    "originalUrl": "https://careers.kakao.com/jobs/P-14323",
-    "aiAnalysis": {
-      "coreSkills": [
-        "인터랙션",
-        "디자인 시스템"
-      ],
-      "requiredTools": [
-        "Figma",
-        "Photoshop",
-        "Illustrator",
-        "After Effects"
-      ],
-      "preferred": [],
-      "keywords": [
-        {
-          "keyword": "인터랙션",
-          "count": 4
-        },
-        {
-          "keyword": "디자인 시스템",
-          "count": 3
-        },
-        {
-          "keyword": "Figma",
-          "count": 1
-        },
-        {
-          "keyword": "Photoshop",
-          "count": 1
-        },
-        {
-          "keyword": "Illustrator",
-          "count": 1
-        },
-        {
-          "keyword": "After Effects",
-          "count": 1
-        }
-      ]
-    }
-  },
-  {
     "id": "kakao-P-14579",
     "title": "카카오프렌즈 일러스트레이터_어시스턴트",
     "companyId": "kakao",
@@ -187,7 +126,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-11-03",
+    "postedAt": "2026-11-04",
     "deadline": null,
     "tags": [
       "토스"
@@ -221,7 +160,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-11-03",
+    "postedAt": "2026-11-04",
     "deadline": null,
     "tags": [
       "토스증권",
@@ -261,7 +200,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-11-03",
+    "postedAt": "2026-11-04",
     "deadline": null,
     "tags": [
       "토스뱅크",
@@ -296,7 +235,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-11-03",
+    "postedAt": "2026-11-04",
     "deadline": null,
     "tags": [
       "토스",
@@ -331,7 +270,7 @@
     "location": "서울",
     "career": "경력 3~5년",
     "employmentType": "정규직",
-    "postedAt": "2026-11-03",
+    "postedAt": "2026-11-04",
     "deadline": null,
     "tags": [
       "토스"
@@ -365,7 +304,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-11-03",
+    "postedAt": "2026-11-04",
     "deadline": null,
     "tags": [
       "토스플레이스",
@@ -415,7 +354,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-11-03",
+    "postedAt": "2026-11-04",
     "deadline": null,
     "tags": [
       "토스플레이스",
@@ -450,7 +389,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-11-03",
+    "postedAt": "2026-11-04",
     "deadline": null,
     "tags": [
       "토스증권",
@@ -485,7 +424,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-11-03",
+    "postedAt": "2026-11-04",
     "deadline": null,
     "tags": [
       "토스",
@@ -531,7 +470,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-11-03",
+    "postedAt": "2026-11-04",
     "deadline": null,
     "tags": [
       "토스뱅크",
@@ -586,7 +525,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-11-03",
+    "postedAt": "2026-11-04",
     "deadline": null,
     "tags": [
       "토스페이먼츠"
@@ -620,7 +559,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-11-03",
+    "postedAt": "2026-11-04",
     "deadline": null,
     "tags": [
       "토스",
@@ -655,7 +594,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-11-03",
+    "postedAt": "2026-11-04",
     "deadline": null,
     "tags": [
       "토스뱅크",
@@ -706,7 +645,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-11-03",
+    "postedAt": "2026-11-04",
     "deadline": null,
     "tags": [
       "토스뱅크",
@@ -747,7 +686,7 @@
     "location": "경기 성남시 분당구",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-11-03",
+    "postedAt": "2026-11-04",
     "deadline": "2026-11-10",
     "tags": [
       "네이버",
@@ -782,7 +721,7 @@
     "location": "경기 성남시 분당구",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-11-03",
+    "postedAt": "2026-11-04",
     "deadline": "2026-11-22",
     "tags": [
       "네이버",
