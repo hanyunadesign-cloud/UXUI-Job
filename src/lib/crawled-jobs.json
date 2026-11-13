@@ -126,7 +126,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-11-12",
+    "postedAt": "2026-11-13",
     "deadline": null,
     "tags": [
       "토스"
@@ -153,6 +153,52 @@
     }
   },
   {
+    "id": "toss-5784849003",
+    "title": "B2B 마케팅 어시스턴트 (크리에이티브)",
+    "companyId": "toss",
+    "platform": "기업 홈페이지",
+    "location": "서울",
+    "career": "경력무관",
+    "employmentType": "계약직",
+    "postedAt": "2026-11-13",
+    "deadline": null,
+    "tags": [
+      "토스페이먼츠",
+      "Figma",
+      "Photoshop"
+    ],
+    "jdSummary": "토스페이먼츠를 소개해 드려요\n 토스페이먼츠는 사업의 어려움과 비효율을 이해하고, 기술부터 운영까지 사업에 필요한 모든 솔루션을 제공하는 것을 목표로 합니다. 소비자들에게 쉽고 편한 서비스 경험을 제공하고, 가맹점에는",
+    "jdFull": [
+      "자세한 업무 내용과 자격요건은 원본 공고에서 확인해주세요."
+    ],
+    "originalUrl": "https://toss.im/career/job-detail?gh_jid=5784849003",
+    "aiAnalysis": {
+      "coreSkills": [
+        "원본 공고에서 상세 내용을 확인해주세요"
+      ],
+      "requiredTools": [
+        "Figma",
+        "Photoshop",
+        "Illustrator"
+      ],
+      "preferred": [],
+      "keywords": [
+        {
+          "keyword": "Figma",
+          "count": 1
+        },
+        {
+          "keyword": "Photoshop",
+          "count": 1
+        },
+        {
+          "keyword": "Illustrator",
+          "count": 1
+        }
+      ]
+    }
+  },
+  {
     "id": "toss-8040939003",
     "title": "UX Writer (Japan)",
     "companyId": "toss",
@@ -160,7 +206,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-11-12",
+    "postedAt": "2026-11-13",
     "deadline": null,
     "tags": [
       "토스증권",
@@ -200,7 +246,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-11-12",
+    "postedAt": "2026-11-13",
     "deadline": null,
     "tags": [
       "토스뱅크",
@@ -235,7 +281,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-11-12",
+    "postedAt": "2026-11-13",
     "deadline": null,
     "tags": [
       "토스",
@@ -270,7 +316,7 @@
     "location": "서울",
     "career": "경력 3~5년",
     "employmentType": "정규직",
-    "postedAt": "2026-11-12",
+    "postedAt": "2026-11-13",
     "deadline": null,
     "tags": [
       "토스"
@@ -304,7 +350,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-11-12",
+    "postedAt": "2026-11-13",
     "deadline": null,
     "tags": [
       "토스플레이스",
@@ -354,7 +400,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-11-12",
+    "postedAt": "2026-11-13",
     "deadline": null,
     "tags": [
       "토스플레이스",
@@ -389,7 +435,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-11-12",
+    "postedAt": "2026-11-13",
     "deadline": null,
     "tags": [
       "토스",
@@ -435,7 +481,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-11-12",
+    "postedAt": "2026-11-13",
     "deadline": null,
     "tags": [
       "토스뱅크",
@@ -490,7 +536,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-11-12",
+    "postedAt": "2026-11-13",
     "deadline": null,
     "tags": [
       "토스뱅크",
@@ -541,7 +587,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-11-12",
+    "postedAt": "2026-11-13",
     "deadline": null,
     "tags": [
       "토스페이먼츠"
@@ -575,7 +621,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-11-12",
+    "postedAt": "2026-11-13",
     "deadline": null,
     "tags": [
       "토스",
@@ -610,7 +656,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-11-12",
+    "postedAt": "2026-11-13",
     "deadline": null,
     "tags": [
       "토스뱅크",
@@ -651,7 +697,7 @@
     "location": "경기 성남시 분당구",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-11-12",
+    "postedAt": "2026-11-13",
     "deadline": "2026-11-22",
     "tags": [
       "네이버",
@@ -686,7 +732,7 @@
     "location": "경기 성남시 분당구",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-11-12",
+    "postedAt": "2026-11-13",
     "deadline": "2026-11-25",
     "tags": [
       "네이버",
