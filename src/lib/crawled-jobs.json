@@ -126,7 +126,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-11-17",
+    "postedAt": "2026-11-18",
     "deadline": null,
     "tags": [
       "토스"
@@ -160,7 +160,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-11-17",
+    "postedAt": "2026-11-18",
     "deadline": null,
     "tags": [
       "토스증권",
@@ -200,7 +200,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-11-17",
+    "postedAt": "2026-11-18",
     "deadline": null,
     "tags": [
       "토스뱅크",
@@ -235,7 +235,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-11-17",
+    "postedAt": "2026-11-18",
     "deadline": null,
     "tags": [
       "토스",
@@ -270,7 +270,7 @@
     "location": "서울",
     "career": "경력 3~5년",
     "employmentType": "정규직",
-    "postedAt": "2026-11-17",
+    "postedAt": "2026-11-18",
     "deadline": null,
     "tags": [
       "토스"
@@ -304,7 +304,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-11-17",
+    "postedAt": "2026-11-18",
     "deadline": null,
     "tags": [
       "토스플레이스",
@@ -354,7 +354,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-11-17",
+    "postedAt": "2026-11-18",
     "deadline": null,
     "tags": [
       "토스플레이스",
@@ -389,7 +389,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-11-17",
+    "postedAt": "2026-11-18",
     "deadline": null,
     "tags": [
       "토스",
@@ -435,7 +435,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-11-17",
+    "postedAt": "2026-11-18",
     "deadline": null,
     "tags": [
       "토스뱅크",
@@ -490,7 +490,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-11-17",
+    "postedAt": "2026-11-18",
     "deadline": null,
     "tags": [
       "토스뱅크",
@@ -541,7 +541,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-11-17",
+    "postedAt": "2026-11-18",
     "deadline": null,
     "tags": [
       "토스페이먼츠"
@@ -575,7 +575,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-11-17",
+    "postedAt": "2026-11-18",
     "deadline": null,
     "tags": [
       "토스",
@@ -610,7 +610,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-11-17",
+    "postedAt": "2026-11-18",
     "deadline": null,
     "tags": [
       "토스뱅크",
@@ -644,6 +644,61 @@
     }
   },
   {
+    "id": "toss-7913976003",
+    "title": "Marketing Creative Assistant",
+    "companyId": "toss",
+    "platform": "기업 홈페이지",
+    "location": "서울",
+    "career": "경력무관",
+    "employmentType": "계약직",
+    "postedAt": "2026-11-18",
+    "deadline": null,
+    "tags": [
+      "토스증권",
+      "Figma",
+      "Photoshop"
+    ],
+    "jdSummary": "합류하면 함께할 업무예요\n 토스증권의 Marketing Creative Assistant는 Marketing Manager와 협업해요.\n 대내외 디자인 커뮤니케이션에 필요한 이미지 제작 서포트를 진행해요.\n 광고 성",
+    "jdFull": [
+      "자세한 업무 내용과 자격요건은 원본 공고에서 확인해주세요."
+    ],
+    "originalUrl": "https://toss.im/career/job-detail?gh_jid=7913976003",
+    "aiAnalysis": {
+      "coreSkills": [
+        "브랜딩"
+      ],
+      "requiredTools": [
+        "Figma",
+        "Photoshop",
+        "Illustrator",
+        "After Effects"
+      ],
+      "preferred": [],
+      "keywords": [
+        {
+          "keyword": "Figma",
+          "count": 1
+        },
+        {
+          "keyword": "Photoshop",
+          "count": 1
+        },
+        {
+          "keyword": "Illustrator",
+          "count": 1
+        },
+        {
+          "keyword": "After Effects",
+          "count": 1
+        },
+        {
+          "keyword": "브랜딩",
+          "count": 1
+        }
+      ]
+    }
+  },
+  {
     "id": "naver-30005654",
     "title": "[네이버웹툰] Brand Media 콘텐츠 PD (계약직)",
     "companyId": "naver",
@@ -651,7 +706,7 @@
     "location": "경기 성남시 분당구",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-11-17",
+    "postedAt": "2026-11-18",
     "deadline": "2026-11-22",
     "tags": [
       "네이버",
@@ -686,7 +741,7 @@
     "location": "경기 성남시 분당구",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-11-17",
+    "postedAt": "2026-11-18",
     "deadline": "2026-11-25",
     "tags": [
       "네이버",
@@ -697,6 +752,41 @@
       "자세한 업무 내용과 자격요건은 원본 공고에서 확인해주세요."
     ],
     "originalUrl": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005684&lang=ko",
+    "aiAnalysis": {
+      "coreSkills": [
+        "원본 공고에서 상세 내용을 확인해주세요"
+      ],
+      "requiredTools": [
+        "Figma"
+      ],
+      "preferred": [],
+      "keywords": [
+        {
+          "keyword": "디자인",
+          "count": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "naver-30005722",
+    "title": "[네이버웹툰] EN Growth&Marketing Design (체험형 인턴)",
+    "companyId": "naver",
+    "platform": "기업 홈페이지",
+    "location": "경기 성남시 분당구",
+    "career": "신입",
+    "employmentType": "인턴",
+    "postedAt": "2026-11-18",
+    "deadline": "2026-11-29",
+    "tags": [
+      "네이버",
+      "Visual Comm. & Brand Design"
+    ],
+    "jdSummary": "Visual Comm. & Brand Design 직군 채용공고입니다.",
+    "jdFull": [
+      "자세한 업무 내용과 자격요건은 원본 공고에서 확인해주세요."
+    ],
+    "originalUrl": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005722&lang=ko",
     "aiAnalysis": {
       "coreSkills": [
         "원본 공고에서 상세 내용을 확인해주세요"
