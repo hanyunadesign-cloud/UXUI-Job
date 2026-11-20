@@ -126,7 +126,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-11-19",
+    "postedAt": "2026-11-20",
     "deadline": null,
     "tags": [
       "토스"
@@ -160,7 +160,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-11-19",
+    "postedAt": "2026-11-20",
     "deadline": null,
     "tags": [
       "토스증권",
@@ -200,7 +200,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-11-19",
+    "postedAt": "2026-11-20",
     "deadline": null,
     "tags": [
       "토스뱅크",
@@ -235,7 +235,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-11-19",
+    "postedAt": "2026-11-20",
     "deadline": null,
     "tags": [
       "토스",
@@ -270,7 +270,7 @@
     "location": "서울",
     "career": "경력 3~5년",
     "employmentType": "정규직",
-    "postedAt": "2026-11-19",
+    "postedAt": "2026-11-20",
     "deadline": null,
     "tags": [
       "토스"
@@ -304,7 +304,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-11-19",
+    "postedAt": "2026-11-20",
     "deadline": null,
     "tags": [
       "토스플레이스",
@@ -354,7 +354,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-11-19",
+    "postedAt": "2026-11-20",
     "deadline": null,
     "tags": [
       "토스플레이스",
@@ -389,7 +389,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-11-19",
+    "postedAt": "2026-11-20",
     "deadline": null,
     "tags": [
       "토스",
@@ -435,7 +435,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-11-19",
+    "postedAt": "2026-11-20",
     "deadline": null,
     "tags": [
       "토스뱅크",
@@ -486,7 +486,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-11-19",
+    "postedAt": "2026-11-20",
     "deadline": null,
     "tags": [
       "토스",
@@ -521,7 +521,7 @@
     "location": "서울",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-11-19",
+    "postedAt": "2026-11-20",
     "deadline": null,
     "tags": [
       "토스뱅크",
@@ -555,6 +555,41 @@
     }
   },
   {
+    "id": "toss-7983321003",
+    "title": "User Interview Assistant",
+    "companyId": "toss",
+    "platform": "기업 홈페이지",
+    "location": "서울",
+    "career": "경력무관",
+    "employmentType": "계약직",
+    "postedAt": "2026-11-20",
+    "deadline": null,
+    "tags": [
+      "토스",
+      "리서치"
+    ],
+    "jdSummary": "합류하면 함께 할 업무예요\n 토스 사용자를 대상으로 온/오프라인 인터뷰에 참여할 분을 모집해요.\n 인터뷰 일정 조율부터 사전 안내, 사례비 지급, 문의 대응까지 사용자 인터뷰 프로세스 전 과정을 운영해요.\n 인터뷰 ",
+    "jdFull": [
+      "자세한 업무 내용과 자격요건은 원본 공고에서 확인해주세요."
+    ],
+    "originalUrl": "https://toss.im/career/job-detail?gh_jid=7983321003",
+    "aiAnalysis": {
+      "coreSkills": [
+        "리서치"
+      ],
+      "requiredTools": [
+        "Figma"
+      ],
+      "preferred": [],
+      "keywords": [
+        {
+          "keyword": "리서치",
+          "count": 5
+        }
+      ]
+    }
+  },
+  {
     "id": "naver-30005654",
     "title": "[네이버웹툰] Brand Media 콘텐츠 PD (계약직)",
     "companyId": "naver",
@@ -562,7 +597,7 @@
     "location": "경기 성남시 분당구",
     "career": "경력무관",
     "employmentType": "계약직",
-    "postedAt": "2026-11-19",
+    "postedAt": "2026-11-20",
     "deadline": "2026-11-22",
     "tags": [
       "네이버",
@@ -597,7 +632,7 @@
     "location": "경기 성남시 분당구",
     "career": "경력무관",
     "employmentType": "정규직",
-    "postedAt": "2026-11-19",
+    "postedAt": "2026-11-20",
     "deadline": "2026-11-25",
     "tags": [
       "네이버",
@@ -632,7 +667,7 @@
     "location": "경기 성남시 분당구",
     "career": "신입",
     "employmentType": "인턴",
-    "postedAt": "2026-11-19",
+    "postedAt": "2026-11-20",
     "deadline": "2026-11-29",
     "tags": [
       "네이버",
